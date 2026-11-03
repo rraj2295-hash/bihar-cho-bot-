@@ -1,0 +1,5629 @@
+[
+  {
+    "number": 1,
+    "question": "What are the 2 basic components of ANC?",
+    "options": {
+      "A": "Supervision - examination",
+      "B": "Examination - advice",
+      "C": "Registration - monitoring",
+      "D": "Prevention - promotion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 2,
+    "question": "According to guideline pregnancy registration time will be?",
+    "options": {
+      "A": "In 1st Trimester",
+      "B": "In 1st Contact",
+      "C": "In 3rd Trimester",
+      "D": "Anytime in pregnancy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 3,
+    "question": "What are the total number of minimum recommended ANC visits?",
+    "options": {
+      "A": "8",
+      "B": "11",
+      "C": "4",
+      "D": "15"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 4,
+    "question": "Which will be ideal time duration to perform 3rd ANC visit?",
+    "options": {
+      "A": "24-28 week",
+      "B": "28-36 week",
+      "C": "36-40 week",
+      "D": "28-32 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 5,
+    "question": "Neglee Formula to calculate EDD will be?",
+    "options": {
+      "A": "9 month + LMP + 7 days",
+      "B": "7 day + LMP + 9 month",
+      "C": "LMP + 9 month + 7 days",
+      "D": "7 day + 9 month + LMP"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 6,
+    "question": "Calculate EDD for a mother who report her last menstrual period on 20 November 2021?",
+    "options": {
+      "A": "27 July",
+      "B": "27 August",
+      "C": "20 August",
+      "D": "27 September"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 7,
+    "question": "During ANC visit mother report her last period on 17th June 2021 with a regular cycle duration about 24 days, calculate her EDD?",
+    "options": {
+      "A": "17 March",
+      "B": "17 April",
+      "C": "13 March",
+      "D": "21 March Note - Average cycle duration 28 days if question report about less/more days then subtraction/addition done."
+    },
+    "answer": "C"
+  },
+  {
+    "number": 8,
+    "question": "A pregnant women 1st time delivered a baby will term as:",
+    "options": {
+      "A": "Nullipara",
+      "B": "Primigravida",
+      "C": "Primipara",
+      "D": "Multigravida"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 9,
+    "question": "In ANC documentation term elderly primigravida stand for?",
+    "options": {
+      "A": "1st pregnancy after 30 year age",
+      "B": "More than 5 pregnancy up to 30 year age",
+      "C": "1st delivery after 30 year age",
+      "D": "More than 2 fetus in single pregnancy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 10,
+    "question": "Ideal timing of preterm birth range will be?",
+    "options": {
+      "A": "20-37 week",
+      "B": "28-37 week",
+      "C": "22-37 week",
+      "D": "24-36 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 11,
+    "question": "The term gravida denotes a condition of?",
+    "options": {
+      "A": "Frequency of pregnancy",
+      "B": "Frequency of viable pregnancy",
+      "C": "Condition of serious pregnancy",
+      "D": "Total number of viable fetus"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 12,
+    "question": "What is average (ideal) height of Indian mother‟s to conduct normal labour chances?",
+    "options": {
+      "A": "5 feet",
+      "B": "5 feet 5 inch",
+      "C": "4 feet 7 inch",
+      "D": "5 feet 4 inch"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 13,
+    "question": "Which amount is ideal for gaining weight in a normal single tone pregnancy?",
+    "options": {
+      "A": "16 kg (30 pound)",
+      "B": "11 kg (24 pound)",
+      "C": "12 kg (22 pound)",
+      "D": "15 kg (28 pound)"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 14,
+    "question": "In which trimester of pregnancy rapid fetal weight gain occur?",
+    "options": {
+      "A": "1st Trimester",
+      "B": "3rd Trimester",
+      "C": "2nd Trimester",
+      "D": "Equal in All"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 15,
+    "question": "What will be ideal pattern to assess pallor/cyanosis changes in pregnant mother?",
+    "options": {
+      "A": "Nails - conjunctiva - Tongue",
+      "B": "Tongue – Conjunctiva - Nails",
+      "C": "Conjunctiva – Nails - Tongue",
+      "D": "Conjunctiva – Tongue – Nails Note - Assessment approach follow center (conjunctiva) to periphery (Nails)"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 16,
+    "question": "What will be basic purpose to perform oral examination of pregnant mother?",
+    "options": {
+      "A": "To assess dental caries",
+      "B": "To assess gum bleeding",
+      "C": "To assess dry mouth",
+      "D": "To examine white patches"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 17,
+    "question": "Which hormone is associated with the condition of pregnancy induced hyper- salivation?",
+    "options": {
+      "A": "Prolactin",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Thyroid"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 18,
+    "question": "Which of the following intervention is appropriate to overcome the condition of gum-bleeding in pregnancy?",
+    "options": {
+      "A": "Instruct to use betadin – gargle solution",
+      "B": "Refer for higher center",
+      "C": "Avoidance of toothbrush and use finger massage",
+      "D": "Vitamin B complex therapy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 19,
+    "question": "Breast is the modification of which gland?",
+    "options": {
+      "A": "Sweat",
+      "B": "Sebaceous",
+      "C": "Serumenous",
+      "D": "Salivary OBG MCQ {CHO} MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 43"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 20,
+    "question": "In pregnancy total number of montagomerry tubercle will be?",
+    "options": {
+      "A": "10-20",
+      "B": "15-25",
+      "C": "5-25",
+      "D": "5-15"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 21,
+    "question": "Montagomerry tubercle of pregnancy characterized as?",
+    "options": {
+      "A": "Sweat gland proliferation",
+      "B": "Sebaceous gland proliferation",
+      "C": "Indication of cancer character",
+      "D": "Outlining of dark area"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 22,
+    "question": "During pregnancy dark outlining around the tubercle term as?",
+    "options": {
+      "A": "Secondary areola",
+      "B": "Primary areola",
+      "C": "Sebaceous growth",
+      "D": "Mamary growth"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 23,
+    "question": "Which statement best explain about pregnancy induced edema condition?",
+    "options": {
+      "A": "Associated fetal bilateral growth",
+      "B": "Most common in both upper-lower extremity",
+      "C": "Increase circulation increase edema",
+      "D": "Right sided edema is most common Note – In pregnancy uterus maintain dextro-rotation (right) and responsible for right sided edema."
+    },
+    "answer": "D"
+  },
+  {
+    "number": 24,
+    "question": "Ideal timing to assess edematous extremities in physical examination?",
+    "options": {
+      "A": "5 minute pressing",
+      "B": "15 second pressing",
+      "C": "5 second pressing",
+      "D": "1 minute pressing"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 25,
+    "question": "The relationship of maximum length between maternal uterus and fetal vertebra is known as?",
+    "options": {
+      "A": "Presentation",
+      "B": "Attitude",
+      "C": "Lie",
+      "D": "Denominator"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 26,
+    "question": "Which will be suitable example of Lie for conduction of normal labour?",
+    "options": {
+      "A": "Longitudinal",
+      "B": "Transverse",
+      "C": "Oblique",
+      "D": "Curve"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 27,
+    "question": "Which of the following will be appropriate for fetus lie?",
+    "options": {
+      "A": "Total number 4",
+      "B": "Normal lies transverse",
+      "C": "Relation with lower uterine segment",
+      "D": "Oblique is unstable"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 28,
+    "question": "Identify suitable statement to explain fetus presentation?",
+    "options": {
+      "A": "Occupy lower uterine segment",
+      "B": "Maintain maximum length relation",
+      "C": "Bony prominent area",
+      "D": "Relation between body parts"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 29,
+    "question": "The normal fetus presentation in a normal labour process will be?",
+    "options": {
+      "A": "Breech",
+      "B": "Cephalic",
+      "C": "Vertex",
+      "D": "Shoulder"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 30,
+    "question": "Identify inappropriate statement to perform Leopold maneuvers?",
+    "options": {
+      "A": "Basic purpose fetal part identification",
+      "B": "Always stand on left side",
+      "C": "Perform after 28 week gestation",
+      "D": "Total number 4"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 31,
+    "question": "What is the basic purpose to perform 1st grip?",
+    "options": {
+      "A": "To identify fetus lie",
+      "B": "To confirm engagment",
+      "C": "To identify descent",
+      "D": "To confirm fetal attitude"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 32,
+    "question": "Which obstetrical grip provide formation about fetus head engagment?",
+    "options": {
+      "A": "LP 1st",
+      "B": "LP 2nd",
+      "C": "LP 3rd",
+      "D": "LP 4th"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 33,
+    "question": "Which obstetrical grip provide information about fetus head engagment?",
+    "options": {
+      "A": "Fundal",
+      "B": "Umlical",
+      "C": "1st pelvic",
+      "D": "2nd Pelvic"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 34,
+    "question": "Which obstetrical grip provide information about fetus head engagment?",
+    "options": {
+      "A": "Fundal",
+      "B": "Lateral",
+      "C": "Pawlick",
+      "D": "Pelvic"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 35,
+    "question": "Identify the grip provide most comfort to pregnant mother?",
+    "options": {
+      "A": "LP 1st",
+      "B": "LP 2nd",
+      "C": "LP 4th",
+      "D": "LP 3rd"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 36,
+    "question": "Identify the grip provide most uncomforted to pregnant mother?",
+    "options": {
+      "A": "LP 1st",
+      "B": "LP 2nd",
+      "C": "LP 4th",
+      "D": "LP 3rd"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 37,
+    "question": "Which obstetrical grip provide maximum information to examiner?",
+    "options": {
+      "A": "Fundal",
+      "B": "Pelvic",
+      "C": "Pawlick",
+      "D": "Umblical"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 38,
+    "question": "Which obstetrical grip confirm fetal head descent process?",
+    "options": {
+      "A": "LP 4th",
+      "B": "LP 3rd",
+      "C": "LP 2nd",
+      "D": "LP 1st"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 39,
+    "question": "Which obstetrical grip confirm fetal head descent process?",
+    "options": {
+      "A": "1st Pelvic",
+      "B": "Lateral",
+      "C": "2nd pelvic",
+      "D": "Fundal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 40,
+    "question": "Which obstetrical grip confirm fetal head descent process?",
+    "options": {
+      "A": "Fundal",
+      "B": "Umbilical",
+      "C": "True pelvic",
+      "D": "Pawlick"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 41,
+    "question": "Identify the Leopold perform by using only one hand?",
+    "options": {
+      "A": "LP 1st",
+      "B": "LP 2nd",
+      "C": "LP 3rd",
+      "D": "LP 4th MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 44"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 42,
+    "question": "Select appropriate result during performance of 1st pelvic grip?",
+    "options": {
+      "A": "It confirm fetal head descent process",
+      "B": "It is most uncomfortable for mother",
+      "C": "Hand divergion confirm engagment",
+      "D": "It perform after LP 3rd"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 43,
+    "question": "Which is appropriate statement in the performance of 1st and 2nd grip?",
+    "options": {
+      "A": "In transverse lie fundal grip absent.",
+      "B": "In transverse lie lateral grip diagnose back and extremities",
+      "C": "In longitudinal lie fundal grip diagnose back and extremities",
+      "D": "In longitudinal lie lateral grip diagnose head and buttocks"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 44,
+    "question": "Select non-appropriate statement before performing fundal height assessment?",
+    "options": {
+      "A": "Use of measuring tape",
+      "B": "Dorsal recumbent position",
+      "C": "Direction Pubis - xiphoid",
+      "D": "Bladder must be full"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 45,
+    "question": "Which will be best suitable position to perform fundal height assessment?",
+    "options": {
+      "A": "Supine with tilt",
+      "B": "Dorsal recumbent",
+      "C": "Left lateral",
+      "D": "Lithotomy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 46,
+    "question": "Around 32 week gestational age fundal height will be?",
+    "options": {
+      "A": "32 cm",
+      "B": "28 cm",
+      "C": "35 cm",
+      "D": "26 cm"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 47,
+    "question": "During which week of gestational age fundus located at umblicus level?",
+    "options": {
+      "A": "12 week",
+      "B": "24 week",
+      "C": "36 week",
+      "D": "40 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 48,
+    "question": "Equal fundus height level is present in which pair of gestational age?",
+    "options": {
+      "A": "24-28",
+      "B": "32-36",
+      "C": "30-36",
+      "D": "32-40"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 49,
+    "question": "Equal fundus height level is differentiating by which medical abbreviation?",
+    "options": {
+      "A": "Lightning",
+      "B": "Descent",
+      "C": "Engagment",
+      "D": "Quickening"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 50,
+    "question": "The most reliable sign of fetal well being will be?",
+    "options": {
+      "A": "FHS",
+      "B": "Fetal length",
+      "C": "Fetal movement",
+      "D": "Fetus & respiration"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 51,
+    "question": "Select appropriate pair who explain normal fetus movement result?",
+    "options": {
+      "A": "10 in 12 hour",
+      "B": "12 in 10 hour",
+      "C": "12 in 2 hour",
+      "D": "10 in 2 hour"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 52,
+    "question": "The 1st fetus movement feel by mother is known as?",
+    "options": {
+      "A": "Lightning",
+      "B": "Descent",
+      "C": "Engagment",
+      "D": "Quickening"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 53,
+    "question": "The best suitable time period to assess quickening?",
+    "options": {
+      "A": "10-12 week",
+      "B": "16-18 week",
+      "C": "20-24 week",
+      "D": "24-28 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 54,
+    "question": "A community nurse must have information about fetal movement process, which information have wrong value regarding this?",
+    "options": {
+      "A": "It is reliable well being indicator",
+      "B": "Can easily access by mother",
+      "C": "Increase movement indicate fetal distress",
+      "D": "10 movement within 12 hour is normal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 55,
+    "question": "At which of pregnancy FHS can be assess by fetoscope?",
+    "options": {
+      "A": "12 week",
+      "B": "20 week",
+      "C": "16 week",
+      "D": "10 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 56,
+    "question": "The best place to locate FHS during pregnancy will be?",
+    "options": {
+      "A": "Maternal abdomen – fetal chest",
+      "B": "Maternal abdomen – fetal back",
+      "C": "Fetal back – maternal back",
+      "D": "Fetal chest – maternal chest"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 57,
+    "question": "What is normal range of FHR?",
+    "options": {
+      "A": "120-160",
+      "B": "110-150",
+      "C": "140-160",
+      "D": "150-180"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 58,
+    "question": "Which statement best explain FHS location in cephalic presentation?",
+    "options": {
+      "A": "At the level of umbilicus",
+      "B": "Above the level of umbilicus",
+      "C": "Below the level of umbilicus",
+      "D": "Midpoint of umbilicus – spine line"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 59,
+    "question": "Under Lab investigation method „UPT‟ appropriate to identify which component?",
+    "options": {
+      "A": "Hemoglobin",
+      "B": "Protein",
+      "C": "HCG",
+      "D": "Sugar"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 60,
+    "question": "Which alphabet is coded over „UPT-KIT‟ to declare true or false interpretation?",
+    "options": {
+      "A": "S",
+      "B": "R",
+      "C": "C",
+      "D": "T"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 61,
+    "question": "What is the famous name of chemical/Test to identify sugar in urine?",
+    "options": {
+      "A": "Dipstick",
+      "B": "Boiling",
+      "C": "Benedict",
+      "D": "RDT MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 45"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 62,
+    "question": "Dipstick coded method is useful investigation tool to identify which component?",
+    "options": {
+      "A": "and",
+      "B": "",
+      "C": "Hb in blood",
+      "D": "Both"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 63,
+    "question": "What is the famous name of test to identify malaria parasite in blood?",
+    "options": {
+      "A": "Dipstick",
+      "B": "Boiling",
+      "C": "Benedict",
+      "D": "RDT"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 64,
+    "question": "In community setting „RDT‟ stand for which abbreviation?",
+    "options": {
+      "A": "Rapid disposable test",
+      "B": "Real diagnostic tool",
+      "C": "Regimen diagnosis technique",
+      "D": "Retrovirus diagnostic test"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 65,
+    "question": "If a pregnant mother got infection by both falciparum and vivex species then what will be interpretation mode over test?",
+    "options": {
+      "A": "C",
+      "B": "C/T1",
+      "C": "C/T2",
+      "D": "C/ T1/ T2"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 66,
+    "question": "During performance of „RDT‟ the result value C/T2 indicative for which finding?",
+    "options": {
+      "A": "No malaria",
+      "B": "Vivex malaria",
+      "C": "Falciparum malaria",
+      "D": "Both B and C"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 67,
+    "question": "True gestational age is about how many days?",
+    "options": {
+      "A": "280 days",
+      "B": "300 days",
+      "C": "266 days",
+      "D": "294 days"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 68,
+    "question": "In pregnant mother “Perinatal period” stands for which duration?",
+    "options": {
+      "A": "Start from viability",
+      "B": "Start from conception",
+      "C": "Duration of pregnancy",
+      "D": "Duration of labour"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 69,
+    "question": "In pregnant mother “Prenatal Period” stands for which duration?",
+    "options": {
+      "A": "Start from viability",
+      "B": "Start before conception",
+      "C": "Duration of pregnancy",
+      "D": "Duration of labour"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 70,
+    "question": "Which uterine layer designated as living Ligature?",
+    "options": {
+      "A": "Longitudinal muscle",
+      "B": "Oblique muscle",
+      "C": "Circular muscle",
+      "D": "Endometrium"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 71,
+    "question": "Identify inappropriate pair regarding pregnancy related uterine shape changes?",
+    "options": {
+      "A": "Normal : Pyriform",
+      "B": "6 week : Heris egg",
+      "C": "8 week : Giobular",
+      "D": "28 week : Pyriform"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 72,
+    "question": "During pregnancy vaginal PH is?",
+    "options": {
+      "A": "Acidic",
+      "B": "More acidic",
+      "C": "Alkaline",
+      "D": "Neutral"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 73,
+    "question": "Which of the following pregnancy induced cervical changes is appropriate?",
+    "options": {
+      "A": "Become hypertrophied and decrease mucus",
+      "B": "Become more rigid and hard",
+      "C": "Become bright red in colour",
+      "D": "Condition of physiological leucorrea"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 74,
+    "question": "How much extra-Fluid volume is retained during pregnancy?",
+    "options": {
+      "A": "11 Ltr",
+      "B": "6.5 Ltr",
+      "C": "5 Ltr",
+      "D": "9.5 Ltr"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 75,
+    "question": "Which statement best explain the condition of physiological anemia?",
+    "options": {
+      "A": "More plasma then RBC",
+      "B": "More RBC then plasma",
+      "C": "Both plasma / RBC decrease",
+      "D": "Both plasma / RBC increase"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 76,
+    "question": "Which basic principal is responsible for the condition of physiological Anemia?",
+    "options": {
+      "A": "Hemoconcentration",
+      "B": "Decrease HB",
+      "C": "Hemodilution",
+      "D": "Decrease RBC"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 77,
+    "question": "A community nurse must have idea that during normal pregnancy blood pressure will be?",
+    "options": {
+      "A": "Increase",
+      "B": "Decrease",
+      "C": "Normal",
+      "D": "None"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 78,
+    "question": "A slight decrease in blood pressure during pregnancy supposed to be related with which activity?",
+    "options": {
+      "A": "Increase blood volume",
+      "B": "Progesterone induced dilation",
+      "C": "Estrogen induced dilation",
+      "D": "Increase cytokine level"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 79,
+    "question": "Which pregnancy structure supposed to be a cause of postural hypotension of pregnancy?",
+    "options": {
+      "A": "Uterine dextro-rotation",
+      "B": "Placenta",
+      "C": "Maternal posture",
+      "D": "Fetus"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 80,
+    "question": "In postural hypotension up to which extent blood pressure change?",
+    "options": {
+      "A": "5-15 mm Hg increase",
+      "B": "20 mm Hg increase",
+      "C": "5-15 mm Hg decrease",
+      "D": "20 mm Hg decrease"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 81,
+    "question": "During ante-natal check-up a community nurse identifies the condition of postural hypotension, which will be priority work should be performed?",
+    "options": {
+      "A": "Immediate oxygenation",
+      "B": "Left Lateral position",
+      "C": "Immediate Refer",
+      "D": "IV 500 ML NS MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 46"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 82,
+    "question": "During pregnancy general physiological edema is related to which physiological change?",
+    "options": {
+      "A": "Increase plasma volume",
+      "B": "Increase sodium retention",
+      "C": "Decrease plasma protein",
+      "D": "Hypertension condition"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 83,
+    "question": "Which hormone is responsible to develop increase sense of smell during pregnancy?",
+    "options": {
+      "A": "HCG",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Prolactin"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 84,
+    "question": "Which hormone is responsible to decrease GIT peristaltic movement in Pregnancy?",
+    "options": {
+      "A": "HCG",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Prolactin"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 85,
+    "question": "Heartburn of Pregnancy related to which hormonal action?",
+    "options": {
+      "A": "HCG",
+      "B": "Estrogen",
+      "C": "Progesterone",
+      "D": "Prolactin"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 86,
+    "question": "Heartburn of pregnancy related to which physiological activity?",
+    "options": {
+      "A": "Gravid uterus Pressure",
+      "B": "Intestinal displacement",
+      "C": "Increase HCL Production",
+      "D": "Relaxation of cardiac sphinctor"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 87,
+    "question": "Constipation of pregnancy related to which physiological activity?",
+    "options": {
+      "A": "Gravid uterus Pressure",
+      "B": "Intestinal displacement",
+      "C": "Decrease Peristalsis",
+      "D": "Relaxation of Anal Sphinctor"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 88,
+    "question": "Which of the following pregnancy induced change is not appropriate?",
+    "options": {
+      "A": "Respiration normal",
+      "B": "Tidal volume increase",
+      "C": "Bladder capacity increase",
+      "D": "Urine frequency increase"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 89,
+    "question": "Which endocrinal Hormone have variable nature in pregnancy?",
+    "options": {
+      "A": "Pitutory",
+      "B": "TSH",
+      "C": "FSH/LH",
+      "D": "Adrenal"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 90,
+    "question": "In Pregnancy which endocrinal gland have maximum functioning level?",
+    "options": {
+      "A": "Pitutory",
+      "B": "Thyroid",
+      "C": "Pineal",
+      "D": "Adrenal"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 91,
+    "question": "Linea Nigra of Pregnancy best defined as?",
+    "options": {
+      "A": "Single Light Line",
+      "B": "Multiple Light lines",
+      "C": "Single dark line",
+      "D": "Multiple dark lines"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 92,
+    "question": "Striate gravidarum of pregnancy best defined as?",
+    "options": {
+      "A": "Single light line",
+      "B": "Multiple light line",
+      "C": "Single dark line",
+      "D": "Multiple dark line"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 93,
+    "question": "What is normal pregnancy posture?",
+    "options": {
+      "A": "Kypnosis",
+      "B": "Lordosis",
+      "C": "Scoliosis",
+      "D": "Normal posture"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 94,
+    "question": "At which body area pregnancy stretch mark present?",
+    "options": {
+      "A": "Chest",
+      "B": "Abdomen",
+      "C": "Thigh’s",
+      "D": "All of above"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 95,
+    "question": "Linea Nigra will extend frolm?",
+    "options": {
+      "A": "Pubis-xiphoid",
+      "B": "Xiphoid-Umblicus",
+      "C": "Umblicus-Pubis",
+      "D": "Chest-Abdomen"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 96,
+    "question": "The softening of uterus with lateral implantation is known as?",
+    "options": {
+      "A": "Chadwick",
+      "B": "Hegar",
+      "C": "Goodells",
+      "D": "Piskaeck"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 97,
+    "question": "Palmer sign elicits?",
+    "options": {
+      "A": "Uterine contraction",
+      "B": "Softening of cervix",
+      "C": "Pulsation in fornix",
+      "D": "Isthmus compression"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 98,
+    "question": "Which one of the following is not a sign of early pregnancy?",
+    "options": {
+      "A": "Goodell",
+      "B": "Hegar",
+      "C": "Cullen",
+      "D": "Palmer"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 99,
+    "question": "In early pregnancy softened isthmus at 6- 10 week of gestation known as?",
+    "options": {
+      "A": "Goodells",
+      "B": "Chadwick",
+      "C": "Piskaec",
+      "D": "Hegar"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 100,
+    "question": "Not a sign of early pregnancy?",
+    "options": {
+      "A": "Lemon’s",
+      "B": "Osiander",
+      "C": "Piskaeck",
+      "D": "Palmer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 101,
+    "question": "Palmer sign is pregnancy refer‟s to?",
+    "options": {
+      "A": "Rhythmic contraction",
+      "B": "Pulsation in fornix",
+      "C": "Discoloration vagina",
+      "D": "None"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 102,
+    "question": "Osiander‟s sign mean‟s?",
+    "options": {
+      "A": "Pulsation in fornix",
+      "B": "Bluish vagina",
+      "C": "Soft cervix",
+      "D": "Contraction’s"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 103,
+    "question": "Which of the following will be a presumptive sign of pregnancy?",
+    "options": {
+      "A": "Amenorrea",
+      "B": "FHS",
+      "C": "Bluish Vagina",
+      "D": "Fornix pulsation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 104,
+    "question": "Which of the following will be a probable sign of pregnancy?",
+    "options": {
+      "A": "Amenorrea",
+      "B": "FHS",
+      "C": "Bluish vagina",
+      "D": "Urine frequency MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 47"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 105,
+    "question": "Which of the following will be a presumptive sign of pregnancy?",
+    "options": {
+      "A": "Goodells",
+      "B": "Morning sickness",
+      "C": "Braxton-Hicks",
+      "D": "Lightning"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 106,
+    "question": "Which of the following will not be a presumptive sign of pregnancy?",
+    "options": {
+      "A": "Amenorrea",
+      "B": "Quickning",
+      "C": "Cholasma",
+      "D": "Morning sickness"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 107,
+    "question": "Bluish discoloration of genitalia known as?",
+    "options": {
+      "A": "Chadwick",
+      "B": "Jacquimer",
+      "C": "Osciender",
+      "D": "Palmer"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 108,
+    "question": "Around which week of gestation, fetus part palpation start?",
+    "options": {
+      "A": "20 week",
+      "B": "28 week",
+      "C": "10 week",
+      "D": "18 week"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 109,
+    "question": "Butterfly sign of pregnancy is related with which activity?",
+    "options": {
+      "A": "Fetal movement",
+      "B": "Part palpation",
+      "C": "Pigmentation",
+      "D": "Sense of relief"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 110,
+    "question": "Around which week of gestation, Braxton Hick‟s contraction become start?",
+    "options": {
+      "A": "8 week",
+      "B": "16 week",
+      "C": "24 week",
+      "D": "32 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 111,
+    "question": "Which clinical condition exactly correlated with pseudocysis?",
+    "options": {
+      "A": "Cholasma",
+      "B": "Quickening",
+      "C": "Hegar",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 112,
+    "question": "Which clinical sign not related with the concept of psudocysis?",
+    "options": {
+      "A": "USG",
+      "B": "FHS",
+      "C": "Part palpation",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 113,
+    "question": "Maternal feeling of relaxation known as lightning occur in which trimester of pregnancy?",
+    "options": {
+      "A": "Ist",
+      "B": "IInd",
+      "C": "IIIrd",
+      "D": "IVth"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 114,
+    "question": "Ballottement activity is best demonstrated by which statement?",
+    "options": {
+      "A": "Fetal movement in amniotic fluid",
+      "B": "Maternal feeling of relaxation",
+      "C": "Painless contraction",
+      "D": "1st fetal movement"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 115,
+    "question": "Which community nurse instruction is not appropriate given to overcome morning sickness?",
+    "options": {
+      "A": "Naturopathy Acupressure measure",
+      "B": "Don’t allow empty stomach",
+      "C": "Early morning fresh juice",
+      "D": "Dry carbohydrate therapy"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 116,
+    "question": "Which will be priority intervention done by CHO to encounter the condition of hyperemesis?",
+    "options": {
+      "A": "Immediate referral",
+      "B": "IVRL then refer",
+      "C": "General naturopathy",
+      "D": "Provide carbohydrate"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 117,
+    "question": "Pregnancy issue urine frequency manage by which measure‟s?",
+    "options": {
+      "A": "Maintain Hygiene",
+      "B": "Voiding schedule",
+      "C": "Kegal exercise",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 118,
+    "question": "Kegal exercise is mainly instructed to overcome which pregnancy issue?",
+    "options": {
+      "A": "Urine frequency",
+      "B": "Vaginal discharge",
+      "C": "Nausea-vomiting",
+      "D": "Backaclte"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 119,
+    "question": "Appropriate CHO based intervention to encounter foul smelling vaginal discharge?",
+    "options": {
+      "A": "Provide pads",
+      "B": "Douclte",
+      "C": "Refer",
+      "D": "Antibiotic’s"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 120,
+    "question": "Select appropriate intervention to overcome pregnancy induced edema condition?",
+    "options": {
+      "A": "Extremity elevation",
+      "B": "No prolonge standing",
+      "C": "Avoid tight clothing",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 121,
+    "question": "In the management of Heartburn of pregnancy which intervention have minimum value?",
+    "options": {
+      "A": "Supine position after meal",
+      "B": "Cold milk",
+      "C": "Use antacids",
+      "D": "Avoid spicy food"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 122,
+    "question": "Which therapeutic measure is not routinely recommended to manage constipation of pregnancy?",
+    "options": {
+      "A": "Increase fluid-fiber",
+      "B": "Increase ambulation",
+      "C": "Use enema",
+      "D": "Isabgol"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 123,
+    "question": "In community maternal complaint of supra-pubic pain is community co-related with which?",
+    "options": {
+      "A": "Pregnancy posture",
+      "B": "UTI",
+      "C": "Ectopic",
+      "D": "Fetus pressure MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 48"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 124,
+    "question": "Backache related to pregnancy is not managed by which instruction?",
+    "options": {
+      "A": "Avoid massage",
+      "B": "Comfortable bed",
+      "C": "Flat surface",
+      "D": "Exercise"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 125,
+    "question": "What are the clinical sign suggestive for severe anemic condition?",
+    "options": {
+      "A": "Palpitation",
+      "B": "Pallor",
+      "C": "Dyspnea",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 126,
+    "question": "What is minimum recommended duration of resting time in pregnant mother?",
+    "options": {
+      "A": "10-12 hour",
+      "B": "8-10 hour",
+      "C": "12-16 hour",
+      "D": "6-8 hour"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 127,
+    "question": "Which physical activity is not recommended for pregnant mother?",
+    "options": {
+      "A": "Swimming",
+      "B": "Cycling",
+      "C": "Stretching",
+      "D": "Sky diving"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 128,
+    "question": "The most common radiation hazard‟s over developing fetus will be?",
+    "options": {
+      "A": "MR",
+      "B": "Leukemia",
+      "C": "IUGR",
+      "D": "Abortion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 129,
+    "question": "Which ideal physical activity must be instructed by nurse to pregnant female?",
+    "options": {
+      "A": "Swimming",
+      "B": "Jogging",
+      "C": "Sky diving",
+      "D": "Climbing"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 130,
+    "question": "Ideal prophylactic dose of folic acid in IFA is?",
+    "options": {
+      "A": "0.1 mg",
+      "B": "0.5 mg",
+      "C": "1 mg",
+      "D": "5 mg"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 131,
+    "question": "Ideal RDA of calcium supplement in pregnant female is?",
+    "options": {
+      "A": "1200 mg",
+      "B": "600 mg",
+      "C": "900 mg",
+      "D": "300 mg"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 132,
+    "question": "What will be ideal amount of glucose use in screening test of GDM?",
+    "options": {
+      "A": "100 gm",
+      "B": "75 gm",
+      "C": "50 gm",
+      "D": "25 gm"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 133,
+    "question": "PAL level in heavy working female is?",
+    "options": {
+      "A": "2.3",
+      "B": "4.6",
+      "C": "1.8",
+      "D": "2.9"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 134,
+    "question": "Recommended dose of levothyroxiene in a pregnancy with TSH level 3-10 miu/L?",
+    "options": {
+      "A": "No requirement",
+      "B": "25 mcg",
+      "C": "50 mcg",
+      "D": "100 mcg"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 135,
+    "question": "A community nurse with a result of > 1:8 antigen in RPR kit will recommended how many dose of antibiotic‟s?",
+    "options": {
+      "A": "Single dose",
+      "B": "Double dose",
+      "C": "Triple dose",
+      "D": "No requirement"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 136,
+    "question": "What is ideal quantities of combination in a single tablet of IFA?",
+    "options": {
+      "A": "60 mg iron + 1 mg folic acid",
+      "B": "100 mg iron + 5 mg folic acid",
+      "C": "60 mg iron + 5 mg folic acid",
+      "D": "100 mg iron + 0.5 mg folic acid"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 137,
+    "question": "A community nurse providing instruction to take IFA tablet, which information is wrong?",
+    "options": {
+      "A": "Taken before meal",
+      "B": "Black stool common",
+      "C": "Don’t take with tea/coffee milk",
+      "D": "Therapeutic dose 2 tablet / day"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 138,
+    "question": "What is recommended prophylactic dose of IFA?",
+    "options": {
+      "A": "1 TAB. / 3 month",
+      "B": "1 TAB. / 6 month",
+      "C": "2 TAB. / 3 month",
+      "D": "2 TAB. / 6 month"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 139,
+    "question": "What is recommended therapeutic dose of IFA?",
+    "options": {
+      "A": "1 TAB. / 3 month",
+      "B": "1 TAB. / 6 month",
+      "C": "2 TAB. / 3 month",
+      "D": "2 TAB. / 6 month"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 140,
+    "question": "According to guideline, what is ideal time duration to start IFA in pregnancy?",
+    "options": {
+      "A": "Before 6 week conception",
+      "B": "Within 1st Trimester",
+      "C": "14-16 wee onward’s",
+      "D": "Anytime"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 141,
+    "question": "In INDIA about how much percentage of daily calcium RDA consumed in pregnancy?",
+    "options": {
+      "A": "60%",
+      "B": "30%",
+      "C": "50%",
+      "D": "40%"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 142,
+    "question": "Which pregnancy disorder associated with calcium deficient condition?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Thyroidisin",
+      "C": "Diabetes",
+      "D": "Pre-term labour"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 143,
+    "question": "What is ideal quantities of combination in a single preparation of calcium tablet?",
+    "options": {
+      "A": "500 mg calcium + 250 IU D3",
+      "B": "1000 mg calcium + 500 IU D3",
+      "C": "500 mg calcium + 500 IU D3",
+      "D": "250 mg calcium + 250 IU D3"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 144,
+    "question": "What is recommended dose of calcium tablet?",
+    "options": {
+      "A": "1 TAB/day",
+      "B": "2 TAB/day",
+      "C": "½ TAB/day",
+      "D": "3 TAB/day"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 145,
+    "question": "Minimum recommended dose of TT injection in a pregnant mother will be?",
+    "options": {
+      "A": "Single dose",
+      "B": "Triple dose",
+      "C": "Double dose",
+      "D": "Not mandatory"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 146,
+    "question": "Ideal and safest route of TT administration is?",
+    "options": {
+      "A": "0.5 mg buttock’s",
+      "B": "0.5 mg arms",
+      "C": "1 mg buttocks",
+      "D": "1 mg arms MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 49"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 147,
+    "question": "What is ideal recommended gap to develop antibodies after rubella vaccination?",
+    "options": {
+      "A": "4 week",
+      "B": "6 week",
+      "C": "2 week",
+      "D": "8 week"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 148,
+    "question": "Ideal timing to administer Rhogam sensitive dose?",
+    "options": {
+      "A": "At birth",
+      "B": "Within 72 hour",
+      "C": "At 28 week",
+      "D": "At 36 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 149,
+    "question": "Select appropriate pair who are eligible for Rhogam sensitive dose?",
+    "options": {
+      "A": "Negative mother negative father",
+      "B": "Positive mother positive father",
+      "C": "Positive mother negative father",
+      "D": "Negative mother positive father"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 150,
+    "question": "What are the basic steps in birth preparation of high risk mother?",
+    "options": {
+      "A": "Place with SBA",
+      "B": "Locate FRU",
+      "C": "Institutional delivery",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 151,
+    "question": "The global incidence of GDM is?",
+    "options": {
+      "A": "1 in 10",
+      "B": "1 in 100",
+      "C": "1 in 1000",
+      "D": "1 in 10000"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 152,
+    "question": "How many screening routinely recommended to diagnose GDM?",
+    "options": {
+      "A": "1 Time",
+      "B": "2 Time",
+      "C": "3 Time",
+      "D": "4 Time"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 153,
+    "question": "What is routine screening timing of GDM?",
+    "options": {
+      "A": "8-12 week",
+      "B": "12-16 week",
+      "C": "24-28 week",
+      "D": "28-32 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 154,
+    "question": "Recommended blood sugar level to declare GDM?",
+    "options": {
+      "A": "> 120 mg/dL",
+      "B": "> 140 mg/dL",
+      "C": "> 180 mg/dL",
+      "D": "> 200 mg/dL"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 155,
+    "question": "In diabetic mother „MNT‟ stands for?",
+    "options": {
+      "A": "Multinational team",
+      "B": "Micro nutrient therapy",
+      "C": "Medical nutrition therapy",
+      "D": "Macro nutrient table"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 156,
+    "question": "1st line therapy for diabetic pregnancy will be?",
+    "options": {
+      "A": "MNT",
+      "B": "Exercise",
+      "C": "Insulin",
+      "D": "Oral drug"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 157,
+    "question": "In diabetic mother, dietary supplements follow which appropriate proportion (CHO : FAT : Protein)?",
+    "options": {
+      "A": "40 : 20 : 40",
+      "B": "40 : 40 : 20",
+      "C": "20 : 40 : 40",
+      "D": "30 : 30 : 30"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 158,
+    "question": "In the management of diabetic pregnancy term „PAL‟ stands for?",
+    "options": {
+      "A": "Permanent activity level",
+      "B": "Patient activity level",
+      "C": "Physical activity level",
+      "D": "Person activity level"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 159,
+    "question": "Total calorie requirement in diabetic mother, calculated as which formula?",
+    "options": {
+      "A": "BMR + PAL",
+      "B": "BMR - PAL",
+      "C": "BMR ÷ PAL",
+      "D": "BMR X PAL"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 160,
+    "question": "What is the meaning of OVERT hypothyroidism?",
+    "options": {
+      "A": "TSH se FT4",
+      "B": "TSH se FT4",
+      "C": "TSH se FT4",
+      "D": "TSH se FT4"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 161,
+    "question": "What is the meaning of subclinical hypothyroidism?",
+    "options": {
+      "A": "TSH se FT4 Normal",
+      "B": "TSH Normal FT4 se",
+      "C": "TSH se FT4 se",
+      "D": "TSH se FT4 se"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 162,
+    "question": "After initiation of Levothyroxiene tablet, what is minimum follow up testing time?",
+    "options": {
+      "A": "3 week",
+      "B": "4 week",
+      "C": "6 week",
+      "D": "8 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 163,
+    "question": "Confirmative diagnostic test for syphilis is?",
+    "options": {
+      "A": "POC",
+      "B": "RPR",
+      "C": "RDT",
+      "D": "UPT"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 164,
+    "question": "In syphilis term „RPR‟ stands for?",
+    "options": {
+      "A": "Real plasma regimen",
+      "B": "Rapid plasma reaction",
+      "C": "Rapid plasma regimen",
+      "D": "Real plasma reaction"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 165,
+    "question": "In ANC documentation MCP card mean?",
+    "options": {
+      "A": "Mother – child planning",
+      "B": "Mother – child protection",
+      "C": "Mother – care planning",
+      "D": "Mother – craft plan"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 166,
+    "question": "In ANC documentation term „MCTS‟ indicate?",
+    "options": {
+      "A": "Mother – Child tracking system",
+      "B": "Mother – Child therapy services",
+      "C": "Mother – Child treatment Schedule",
+      "D": "Mother – Child therapy solution INTRA – NATAL PERIOD"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 167,
+    "question": "Which characteristic value is not appropriate to explore the meaning of labour?",
+    "options": {
+      "A": "Process of expulsion",
+      "B": "At term",
+      "C": "Spontaneous nature",
+      "D": "Within 12 hour MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 50"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 168,
+    "question": "How many essential „P‟ for the conduction of labour?",
+    "options": {
+      "A": "4 P",
+      "B": "3 P",
+      "C": "5 P",
+      "D": "16 P"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 169,
+    "question": "Labour onset process involve several concept identify unmatchefull pair from the following?",
+    "options": {
+      "A": "Aging placenta : Decrease Supply",
+      "B": "Growing Fetus : Uterine Stretching",
+      "C": "Fetal steroid : Decrease estrogen",
+      "D": "Ferguson reflex : Oxytocin release"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 170,
+    "question": "Which appropriate result is available with the condition of aging placenta?",
+    "options": {
+      "A": "Increase supply",
+      "B": "Decrease supply",
+      "C": "Fetus growth",
+      "D": "Oxytocin release"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 171,
+    "question": "Ferguson reflex associated with which condition?",
+    "options": {
+      "A": "Oxytocin release",
+      "B": "Estrogen release",
+      "C": "Progesterone release",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 172,
+    "question": "Which of the following supposed to be cause of increase prostaglandin production in labour?",
+    "options": {
+      "A": "Aging placenta",
+      "B": "Fetal membrane",
+      "C": "Fetal steroid hormone",
+      "D": "Ferguson reflex"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 173,
+    "question": "Pre-labour symptoms present around which duration?",
+    "options": {
+      "A": "Just before labour",
+      "B": "1 week before",
+      "C": "2-3 week before",
+      "D": "1 month before"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 174,
+    "question": "Which of the following is not a character of Pre-labour?",
+    "options": {
+      "A": "Cervical dilation",
+      "B": "Lightning",
+      "C": "Show",
+      "D": "Nesting"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 175,
+    "question": "Identify character of Pre-labour from following?",
+    "options": {
+      "A": "Placenta separation",
+      "B": "Fetus delivery",
+      "C": "Cervical dilation",
+      "D": "Ripening"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 176,
+    "question": "In Pre-labour condition of cervical ripening stand for?",
+    "options": {
+      "A": "Mucus Plug",
+      "B": "Cervical Maturity",
+      "C": "Increase energy",
+      "D": "Increase discharge"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 177,
+    "question": "Sudden increase in maternal body energy level ¼pko½ just before labour known as?",
+    "options": {
+      "A": "Kidding",
+      "B": "Nesting",
+      "C": "Ripening",
+      "D": "Show"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 178,
+    "question": "Passing of mucus plug per-vaginum before onset of normal labour process characterized as?",
+    "options": {
+      "A": "Lightning",
+      "B": "Nesting",
+      "C": "Ripening",
+      "D": "Show"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 179,
+    "question": "All of the following pain character increase except?",
+    "options": {
+      "A": "Duration",
+      "B": "Frequency",
+      "C": "Interval",
+      "D": "Regularity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 180,
+    "question": "In labour pain “peak of correction” characterized as?",
+    "options": {
+      "A": "ACME",
+      "B": "Increment",
+      "C": "Decrement",
+      "D": "Systole"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 181,
+    "question": "In labour pain “uterine systole” characterized as?",
+    "options": {
+      "A": "Intensity",
+      "B": "Interval",
+      "C": "Increment",
+      "D": "Radiating power"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 182,
+    "question": "In labour characters onset and ending of same contraction characterized as?",
+    "options": {
+      "A": "Interval",
+      "B": "Duration",
+      "C": "Increment",
+      "D": "Decrement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 183,
+    "question": "In labour characters onset of one and onset of 2nd correction is characterized as?",
+    "options": {
+      "A": "Increment",
+      "B": "Decrement",
+      "C": "Interval",
+      "D": "Duration"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 184,
+    "question": "In labour character increase-decrease strength characterized as?",
+    "options": {
+      "A": "Severity - Intensity",
+      "B": "Duration - Interval",
+      "C": "Radiation - Nonradiation",
+      "D": "Increment – Decrement"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 185,
+    "question": "Which of the following feature is inappropriate in explaining labour pain characters?",
+    "options": {
+      "A": "Radiate from back to abdomen",
+      "B": "Systole indicate hardness",
+      "C": "Decrease with ambulation",
+      "D": "Regular in nature"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 186,
+    "question": "How many stages are involve in normal labour?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "2",
+      "D": "5"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 187,
+    "question": "Which stage of labour characterized as full cervical dilation?",
+    "options": {
+      "A": "1st",
+      "B": "2nd",
+      "C": "3rd",
+      "D": "4th"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 188,
+    "question": "Full cervical dilation to deliver Placenta in which stage?",
+    "options": {
+      "A": "1st",
+      "B": "2nd",
+      "C": "3rd",
+      "D": "4th MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 51"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 189,
+    "question": "Which stage of labour called as examination stage?",
+    "options": {
+      "A": "Cervical",
+      "B": "Birth",
+      "C": "Placental",
+      "D": "Observational"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 190,
+    "question": "In which stage of labour maximum time consumed?",
+    "options": {
+      "A": "Observational",
+      "B": "Placental",
+      "C": "Birth",
+      "D": "Cervical"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 191,
+    "question": "Which stage of labour called as after birth?",
+    "options": {
+      "A": "Cervical",
+      "B": "Birth",
+      "C": "Placental",
+      "D": "Observational"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 192,
+    "question": "Parturient is designated as?",
+    "options": {
+      "A": "Mother in labour",
+      "B": "Fetus in labour",
+      "C": "Health worker in labour",
+      "D": "After birth procedure"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 193,
+    "question": "Under which stage of labour full cervical dilation is achieved?",
+    "options": {
+      "A": "Latent",
+      "B": "Active",
+      "C": "Transitional",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 194,
+    "question": "Under which stage of labour maximum cervical dilation is achieved?",
+    "options": {
+      "A": "Latent",
+      "B": "Active",
+      "C": "Transitional",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 195,
+    "question": "Identify appropriate intervention for Latent stage?",
+    "options": {
+      "A": "Allow activities",
+      "B": "Deep breathing",
+      "C": "Rest between contractions",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 196,
+    "question": "Identify appropriate intervention for active stage?",
+    "options": {
+      "A": "Allow activities",
+      "B": "Deep breathing",
+      "C": "Rest between contractions",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 197,
+    "question": "Identify appropriate intervention for Transitional stage?",
+    "options": {
+      "A": "Allow activities",
+      "B": "Deep breathing",
+      "C": "Rest between contractions",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 198,
+    "question": "In which sub-stage maternal behavior anxious?",
+    "options": {
+      "A": "Latent",
+      "B": "Active",
+      "C": "Transitional",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 199,
+    "question": "In which sub-stage maternal behavior talkative?",
+    "options": {
+      "A": "Latent",
+      "B": "Active",
+      "C": "Transitional",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 200,
+    "question": "In which sub-stage mother loose her control?",
+    "options": {
+      "A": "Latent",
+      "B": "Active",
+      "C": "Transitional",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 201,
+    "question": "In active stage of labour uterine contraction present up to how much duration?",
+    "options": {
+      "A": "60-90 second",
+      "B": "20-40 second",
+      "C": "50-80 second",
+      "D": "40-60 second"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 202,
+    "question": "At which exact point labour pain start?",
+    "options": {
+      "A": "Cervix",
+      "B": "Fundus",
+      "C": "Right corner",
+      "D": "Left corner"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 203,
+    "question": "What is the meaning of uterine polarity?",
+    "options": {
+      "A": "Division of uterus",
+      "B": "Upper-lower segment",
+      "C": "Physiological condition",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 204,
+    "question": "Under “Bucket – Holding” pattern bucket will stand for which information?",
+    "options": {
+      "A": "Lower circular",
+      "B": "Upper longitudinal",
+      "C": "Lower longitudinal",
+      "D": "Upper circular"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 205,
+    "question": "Under “Bucket-Holding” pattern holder will stand for which information?",
+    "options": {
+      "A": "Lower circular",
+      "B": "Upper longitudinal",
+      "C": "Lower longitudinal",
+      "D": "Upper circular"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 206,
+    "question": "“Contraction – ring” of labour pain characterized as?",
+    "options": {
+      "A": "Nonvisible - permanent",
+      "B": "Visible – Permanent",
+      "C": "Nonvisible - temporary",
+      "D": "Visible - temporary"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 207,
+    "question": "What is the meaning of cervical – effacement?",
+    "options": {
+      "A": "Shortning",
+      "B": "Softning",
+      "C": "Loosening",
+      "D": "Taking-up"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 208,
+    "question": "How much effacement expected if cervical length is 2.5 cm?",
+    "options": {
+      "A": "100%",
+      "B": "75%",
+      "C": "50%",
+      "D": "0%"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 209,
+    "question": "What is average cervical dilation rate in primi?",
+    "options": {
+      "A": "1 cm/HR",
+      "B": "2 cm/HR",
+      "C": "1.2 cm/HR",
+      "D": "1.5 cm/HR"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 210,
+    "question": "What is average cervical dilation rate in multi?",
+    "options": {
+      "A": "1 cm/HR",
+      "B": "2 cm/HR",
+      "C": "1.2 cm/HR",
+      "D": "1.5 cm/HR"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 211,
+    "question": "Pregnancy event “Forewater” what it means?",
+    "options": {
+      "A": "Fluid the head in pelvis front",
+      "B": "Fluid the head in pelvis behind",
+      "C": "Fluid the head in abdomen front",
+      "D": "Fluid the head in Abdomen behind MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 52"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 212,
+    "question": "Pregnancy event “Hind water” what it means?",
+    "options": {
+      "A": "Fluid front the head in pelvis",
+      "B": "Fluid behind the head in pelvis",
+      "C": "Fluid front the head in Abdomen",
+      "D": "Fluid behind the head in Abdomen"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 213,
+    "question": "Select ideal position for labour?",
+    "options": {
+      "A": "Lithotomy",
+      "B": "Dorsal recumbent",
+      "C": "Squatting",
+      "D": "Dorsal Tilt"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 214,
+    "question": "Select ideal position for examination?",
+    "options": {
+      "A": "Lithotomy",
+      "B": "Dorsal recumbent",
+      "C": "Squatting",
+      "D": "Dorsal Tilt"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 215,
+    "question": "Select ideal position to push the fetus?",
+    "options": {
+      "A": "Lithotomy",
+      "B": "Dorsal recumbent",
+      "C": "Squatting",
+      "D": "Dorsal Tit"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 216,
+    "question": "Select ideal position to transfer mother in labour?",
+    "options": {
+      "A": "Lithotomy",
+      "B": "Dorsal recumbent",
+      "C": "Squatting",
+      "D": "Dorsal Tilt"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 217,
+    "question": "Which will be ideal position during 1st stage labour?",
+    "options": {
+      "A": "Lithotomy",
+      "B": "Dorsal recumbent",
+      "C": "Squatting",
+      "D": "Dorsal Tilt"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 218,
+    "question": "What is the purpose of “BISHOP SCORE” in labour?",
+    "options": {
+      "A": "Maternal readiness for labour",
+      "B": "Induction of labour",
+      "C": "Progress of labour",
+      "D": "Recording of labour"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 219,
+    "question": "“BISHOP SCORE” is which kind of examination?",
+    "options": {
+      "A": "Abdominal",
+      "B": "Physical",
+      "C": "Pervaginal",
+      "D": "Laboratory"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 220,
+    "question": "Most important component of Bishop score will be?",
+    "options": {
+      "A": "Cervical position",
+      "B": "Cervical dilation",
+      "C": "Head station",
+      "D": "Cervical effacement"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 221,
+    "question": "How many components included in BISHOP?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "13"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 222,
+    "question": "What is the maximum scoring in BISHOP?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "13"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 223,
+    "question": "What is the minimum scoring in BISHOP?",
+    "options": {
+      "A": "5",
+      "B": "4",
+      "C": "6",
+      "D": "13"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 224,
+    "question": "What is the purpose of “Partograph” in labour?",
+    "options": {
+      "A": "Maternal readiness for labour",
+      "B": "Recording of labour",
+      "C": "Induction of labour",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 225,
+    "question": "How frequently a partograph must be recorded?",
+    "options": {
+      "A": "1/2 hourly",
+      "B": "1 hourly",
+      "C": "4 hourly",
+      "D": "2 hourly"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 226,
+    "question": "At which cervical dilation the partogram filling started?",
+    "options": {
+      "A": "0 cm",
+      "B": "3 cm",
+      "C": "4 cm",
+      "D": "7 cm"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 227,
+    "question": "Select appropriate frequency to record FHR in partogram?",
+    "options": {
+      "A": "Every 30 minute in Latent",
+      "B": "Every 15 minute in active",
+      "C": "Every 5 minute in 2nd stage",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 228,
+    "question": "Unrupture/maintain condition of amniotic cavity denoted by which symbol in partograph?",
+    "options": {
+      "A": "I",
+      "B": "C",
+      "C": "M",
+      "D": "B"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 229,
+    "question": "Under mounding process non-reducable overlapping condition receive how many number?",
+    "options": {
+      "A": "0",
+      "B": "1",
+      "C": "2",
+      "D": "3"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 230,
+    "question": "Which symbol is used to denote cervical dilation?",
+    "options": {},
+    "answer": "B"
+  },
+  {
+    "number": 231,
+    "question": "Alert line of partograph extend upto?",
+    "options": {
+      "A": "4-8 cm",
+      "B": "6-10 cm",
+      "C": "4-10 cm",
+      "D": "0-4 cm"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 232,
+    "question": "After how much time of Alert line next action line is drawn in partograph?",
+    "options": {
+      "A": "6 hour",
+      "B": "4 hour",
+      "C": "2 hour",
+      "D": "8 hour MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 53"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 233,
+    "question": "Appropriate interpretation of “Left to Alert” is?",
+    "options": {
+      "A": "Normal condition",
+      "B": "Prolonged condition",
+      "C": "Prepare for cesarean",
+      "D": "Not in labour"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 234,
+    "question": "Appropriate interpretation of “Right to action” line?",
+    "options": {
+      "A": "Normal condition",
+      "B": "Prolonged condition",
+      "C": "Prepare for cesarean",
+      "D": "Not in labour"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 235,
+    "question": "“Fifth formula” in labour related to which condition?",
+    "options": {
+      "A": "Membrane status",
+      "B": "Head descent",
+      "C": "Bishop score",
+      "D": "Uterine contraction"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 236,
+    "question": "Total number of cardinal movements in mectanism of labour is?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "8",
+      "D": "7"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 237,
+    "question": "Out of the following which one is 1st cardinal?",
+    "options": {
+      "A": "Descent",
+      "B": "Engagment",
+      "C": "Extension",
+      "D": "Restitution"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 238,
+    "question": "Out of the following which one is universal?",
+    "options": {
+      "A": "Descent",
+      "B": "Engagment",
+      "C": "Extension",
+      "D": "Restitution"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 239,
+    "question": "Most important cardinal movement will be?",
+    "options": {
+      "A": "Descent",
+      "B": "Engagment",
+      "C": "Extension",
+      "D": "Restitution"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 240,
+    "question": "Out of the following which one is visible movement?",
+    "options": {
+      "A": "Descent",
+      "B": "Engagment",
+      "C": "Extension",
+      "D": "Restitution"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 241,
+    "question": "Which will be ideal position to conduct normal labour?",
+    "options": {
+      "A": "LOA > LOT",
+      "B": "LOT > LOA",
+      "C": "ROA > ROT",
+      "D": "ROT > ROA"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 242,
+    "question": "For which movement pelvic resistance is important?",
+    "options": {
+      "A": "Crowning",
+      "B": "Extension",
+      "C": "Flexion",
+      "D": "Restitution"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 243,
+    "question": "Amount of total head rotation in normal labour?",
+    "options": {
+      "A": "1/8",
+      "B": "2/8",
+      "C": "3/8",
+      "D": "4/8"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 244,
+    "question": "Amount of maximum head rotation (single time) in normal labour?",
+    "options": {
+      "A": "1/8",
+      "B": "2/8",
+      "C": "3/8",
+      "D": "4/8"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 245,
+    "question": "What is true about external rotation step?",
+    "options": {
+      "A": "Continuation of restitution",
+      "B": "Purpose shoulder rotation",
+      "C": "Total amount 1/8",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 246,
+    "question": "Which principle is responsible for delivery of head?",
+    "options": {
+      "A": "Flexion",
+      "B": "Extension",
+      "C": "Lateral flexion",
+      "D": "Adduction"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 247,
+    "question": "Select priority intervention in 2nd stage labour?",
+    "options": {
+      "A": "FHR Monitoring",
+      "B": "Bering-down promotion",
+      "C": "Perineal resistence",
+      "D": "PV examination"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 248,
+    "question": "What is ideal method to conduct PV examination?",
+    "options": {
+      "A": "6-9 clock",
+      "B": "3-12 clock",
+      "C": "3-9 clock",
+      "D": "6-12 clock"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 249,
+    "question": "Which intervention of community nurse is not appropriate in 2nd stage labour?",
+    "options": {
+      "A": "Baby pulling",
+      "B": "Supra-pubic bladder assessment",
+      "C": "Instruction of mouth breathing",
+      "D": "No routine enema"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 250,
+    "question": "A community nurse must have idea that appropriate timing of episiotomy will be?",
+    "options": {
+      "A": "Just before crowning",
+      "B": "During perineal buldging",
+      "C": "3-4 cm scalp visibility",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 251,
+    "question": "Under which type of episiotomy risk of bartholin damage greater?",
+    "options": {
+      "A": "Median",
+      "B": "Lateral",
+      "C": "Medio-lateral",
+      "D": "J Shape"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 252,
+    "question": "Under which type of episiotomy risk of rectum damage greater?",
+    "options": {
+      "A": "Median",
+      "B": "Lateral",
+      "C": "Medio-Lateral",
+      "D": "J Shape"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 253,
+    "question": "Which statement best explain about J shape variety?",
+    "options": {
+      "A": "1.5 cm medial cut",
+      "B": "1 cm lateral cut",
+      "C": "5-7 clock position",
+      "D": "All of these MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 54"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 254,
+    "question": "“REEDA SCALE” is a parameter of which assessment?",
+    "options": {
+      "A": "Incision type",
+      "B": "Healing type",
+      "C": "Pain assessment",
+      "D": "Suturing type"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 255,
+    "question": "What are the pain releaving measures used after episiotomy?",
+    "options": {
+      "A": "Cold therapy – Sitz bath",
+      "B": "Perineal wash – air exposure",
+      "C": "Air cushions for sitting",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 256,
+    "question": "Placenta delievery completed in how much duration?",
+    "options": {
+      "A": "5 Minute",
+      "B": "15 Minute",
+      "C": "15-20 Minute",
+      "D": "30 Minute"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 257,
+    "question": "Delievery of placenta – after delievery of fetus completed within how much duration?",
+    "options": {
+      "A": "5 minute",
+      "B": "15 minute",
+      "C": "15-20 minute",
+      "D": "30 minute"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 258,
+    "question": "What are the basic cause behind separation of placenta in labour?",
+    "options": {
+      "A": "Retrection of muscle",
+      "B": "Decrease area",
+      "C": "Placental bed damage",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 259,
+    "question": "In which placenta sepration mechanism risk of clot formation present?",
+    "options": {
+      "A": "Mcschultze",
+      "B": "DUCANNE",
+      "C": "Marginal",
+      "D": "Revealed"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 260,
+    "question": "False statement for central sepration mechanism is?",
+    "options": {
+      "A": "Fetus surface appear first",
+      "B": "Minimum blood loss",
+      "C": "Clot formation",
+      "D": "20% prcidence"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 261,
+    "question": "False statement for marginal sepration mechanism is?",
+    "options": {
+      "A": "Mc schultze pattern",
+      "B": "Maternal surface ppear first",
+      "C": "More bleeding risk",
+      "D": "No clot formation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 262,
+    "question": "Which will be most confirmative sign of placenta sepration?",
+    "options": {
+      "A": "Cord length",
+      "B": "Gush of blood",
+      "C": "Fundus nature",
+      "D": "Hemostasis"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 263,
+    "question": "Out of the following will not be a sign of placenta – sepration?",
+    "options": {
+      "A": "Supra-pubic buldge",
+      "B": "Bleeding",
+      "C": "Decrease cord length",
+      "D": "Hemostasis"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 264,
+    "question": "Hemostsis after placenta sepration achieved by:",
+    "options": {
+      "A": "Coagulation activation",
+      "B": "Retraction",
+      "C": "Oblique muscle contrection",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 265,
+    "question": "Inappropriate finding of fundus assessment after placenta sepration will be?",
+    "options": {
+      "A": "Decrease height",
+      "B": "Globular",
+      "C": "Hard nature",
+      "D": "Increase height"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 266,
+    "question": "Active management (AMTSL) start from which event of labour?",
+    "options": {
+      "A": "Placenta birth",
+      "B": "Baby birth",
+      "C": "After labour",
+      "D": "After delievery"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 267,
+    "question": "Drug of choice in AMTSL will be?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prostaglandin",
+      "C": "Methargine",
+      "D": "RU 486"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 268,
+    "question": "What is ideal time of cord-clamping in AMTSL?",
+    "options": {
+      "A": "Within 1 minute",
+      "B": "1-3 minute",
+      "C": "Within 5 minute",
+      "D": "30 second"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 269,
+    "question": "In AMTSL what is the meaning of CCT?",
+    "options": {
+      "A": "Counter cord traction",
+      "B": "Controlled cord traction",
+      "C": "Complete cord traction",
+      "D": "Careful cord traction"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 270,
+    "question": "As per bio waste principal placenta is disposed under which container?",
+    "options": {
+      "A": "Yellow",
+      "B": "Blue",
+      "C": "Red",
+      "D": "Black TOST – PARTUM PERIOD"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 271,
+    "question": "Post partum period will start, after?",
+    "options": {
+      "A": "Labour",
+      "B": "Delievery",
+      "C": "Both",
+      "D": "None"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 272,
+    "question": "Post partum period will start after?",
+    "options": {
+      "A": "Labour",
+      "B": "Fetus delievery",
+      "C": "Placenta delievery",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 273,
+    "question": "Calculate the total duration of post- partum?",
+    "options": {
+      "A": "42 days",
+      "B": "6 week",
+      "C": "1.5 month",
+      "D": "All of these MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 55"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 274,
+    "question": "What is the meaning of immediate post- partum?",
+    "options": {
+      "A": "1st day",
+      "B": "1st week",
+      "C": "Remaining 5 week",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 275,
+    "question": "In post-partum period what is the meaning of term involution?",
+    "options": {
+      "A": "Anatomical changes of orgen",
+      "B": "Physiological changes of orgen",
+      "C": "Total body system changes",
+      "D": "Genital orgen changes"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 276,
+    "question": "In post partum period what is the meaning of term PUERPARIUM?",
+    "options": {
+      "A": "Anatomical changes of orgen",
+      "B": "Physiological changes of orgen",
+      "C": "Total body system changes",
+      "D": "Genital orgen changes"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 277,
+    "question": "Which statement is appropriate for post- partum changes?",
+    "options": {
+      "A": "Initial bradycardia then tachycardia",
+      "B": "Urine retention – constipation common",
+      "C": "Weight gain",
+      "D": "Hypothermia related to dehydration"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 278,
+    "question": "Increase body temperature in immediate post partum is related to which condition?",
+    "options": {
+      "A": "Dehydration",
+      "B": "Pyrexia",
+      "C": "Sepsis",
+      "D": "Mastitis"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 279,
+    "question": "In post-partum weight lose is associated with?",
+    "options": {
+      "A": "Dehydration",
+      "B": "Diuresis",
+      "C": "Lactation",
+      "D": "Locnia"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 280,
+    "question": "Under uterine changes complete cervical closure achieve within?",
+    "options": {
+      "A": "24 hour",
+      "B": "10 days",
+      "C": "7 days",
+      "D": "Never"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 281,
+    "question": "In post-partum uterus become pelvic orgen at which duration?",
+    "options": {
+      "A": "10 days",
+      "B": "10-12 days",
+      "C": "7-10 days",
+      "D": "12-14 days"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 282,
+    "question": "Complete endometrium regeneration achieves t which time in post-partum?",
+    "options": {
+      "A": "Within 4 week",
+      "B": "Within 6 week",
+      "C": "Within 12 week",
+      "D": "Within 10 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 283,
+    "question": "What is the maximum duration of Lochia?",
+    "options": {
+      "A": "1 week",
+      "B": "2 week",
+      "C": "3 week",
+      "D": "6 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 284,
+    "question": "What is the average duration of Lochia?",
+    "options": {
+      "A": "1 week",
+      "B": "2 week",
+      "C": "3 week",
+      "D": "6 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 285,
+    "question": "What is the origion source of Lochia?",
+    "options": {
+      "A": "Uterus",
+      "B": "Cervix",
+      "C": "Vagina",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 286,
+    "question": "What is the total amount of Lochia?",
+    "options": {
+      "A": "100-250 ml",
+      "B": "250-300 ml",
+      "C": "250-400 ml",
+      "D": "100 ml"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 287,
+    "question": "Vaginal discharge contain decidua, cotyledon RBC identify type of lochia?",
+    "options": {
+      "A": "Rubra",
+      "B": "Serosa",
+      "C": "Alba",
+      "D": "Metra"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 288,
+    "question": "Vaginal discharge contain pus, wound, WBC, Micro-organism, identify type of locnia?",
+    "options": {
+      "A": "Rubra",
+      "B": "Serosa",
+      "C": "Alba",
+      "D": "Metra"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 289,
+    "question": "Vaginal discharge contain cell, mucus, water, epithelium, identify type of locnia?",
+    "options": {
+      "A": "Rubra",
+      "B": "Serosa",
+      "C": "Alba",
+      "D": "Metra"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 290,
+    "question": "Which will be major responsible hormone for Lactation?",
+    "options": {
+      "A": "Estrogen",
+      "B": "Progesterone",
+      "C": "HPL",
+      "D": "Prolactin"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 291,
+    "question": "Which will be major stimulent for lactation?",
+    "options": {
+      "A": "Sucking",
+      "B": "Oxytocin",
+      "C": "Let-down",
+      "D": "Pumping"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 292,
+    "question": "“Secreation of milk” designated as?",
+    "options": {
+      "A": "Mamogenasis",
+      "B": "Lactogenasis",
+      "C": "Galactokinesis",
+      "D": "Galacto Poiesis"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 293,
+    "question": "“Ejaculation of milk” designated as?",
+    "options": {
+      "A": "Mmogenasis",
+      "B": "Lactogenasis",
+      "C": "Galactokinesis",
+      "D": "Galactopoiesis"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 294,
+    "question": "Major responsible hormone for Galactokinesis?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Prolactin",
+      "C": "Estrogen",
+      "D": "Progesterone"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 295,
+    "question": "Which one is true, about post-partum menstrual changes?",
+    "options": {
+      "A": "Mensturation before ovulation",
+      "B": "Ovulation before mensturation",
+      "C": "Ovulation – mensturtion same time",
+      "D": "Ovulation – mensturation 1 month gap"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 296,
+    "question": "Ideal time of Ovulation in Lactating mother?",
+    "options": {
+      "A": "4 week",
+      "B": "6 week",
+      "C": "10 week",
+      "D": "After 12 week"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 297,
+    "question": "Ideal time of ovulation in non-lactating mother?",
+    "options": {
+      "A": "4 week",
+      "B": "6 week",
+      "C": "10 week",
+      "D": "After 12 week"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 298,
+    "question": "What is total number of post natal visit?",
+    "options": {
+      "A": "2",
+      "B": "4",
+      "C": "3",
+      "D": "6 MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 56"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 299,
+    "question": "For which benefit early post-partum ambulation is compulsory?",
+    "options": {
+      "A": "Wound healing",
+      "B": "Circulatory change",
+      "C": "Stitch repair",
+      "D": "Drainage promotion"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 300,
+    "question": "Why rest is essential in post-partum period?",
+    "options": {
+      "A": "Wound healing",
+      "B": "Circulatory change",
+      "C": "Stitch repair",
+      "D": "Drainage promotion"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 301,
+    "question": "„After pain‟ are move common in which group?",
+    "options": {
+      "A": "Non lactating primi",
+      "B": "Non lactating multi",
+      "C": "Lactating primi",
+      "D": "Lactating multi"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 302,
+    "question": "„After pain‟ are less common in which group?",
+    "options": {
+      "A": "Non lactating primi",
+      "B": "Non lactating multi",
+      "C": "Lactating primi",
+      "D": "Lactating mullti"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 303,
+    "question": "Which therapy is most effective during feeding a newborn?",
+    "options": {
+      "A": "Ice application",
+      "B": "Warm application",
+      "C": "Breast pump",
+      "D": "Ibuprofen"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 304,
+    "question": "In pyrexia increase temperature present upto?",
+    "options": {
+      "A": "3 days",
+      "B": "7 days",
+      "C": "10days",
+      "D": "42 days"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 305,
+    "question": "In post partum sepsis body temperature will be?",
+    "options": {
+      "A": "38° C",
+      "B": "38.5° C",
+      "C": "40° C",
+      "D": "41° C"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 306,
+    "question": "Which of the following is most common infection of post-partum?",
+    "options": {
+      "A": "Cystitis",
+      "B": "Mastitis",
+      "C": "Endometritis",
+      "D": "Vaginitis"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 307,
+    "question": "Which clinical term is used for delayed involution?",
+    "options": {
+      "A": "Subinvolution",
+      "B": "Superinvolution",
+      "C": "Suprainvolution",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 308,
+    "question": "Best therapy to prevent post partum mastitis?",
+    "options": {
+      "A": "Hydration",
+      "B": "Feeding",
+      "C": "Breast-Pump",
+      "D": "Danazol"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 309,
+    "question": "Best therapy to prevent post partum cystitis?",
+    "options": {
+      "A": "Antibiotic",
+      "B": "Kegal",
+      "C": "Irrigation",
+      "D": "Hydration"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 310,
+    "question": "Post-partum blues commonly associated with which?",
+    "options": {
+      "A": "Physiological changes",
+      "B": "Lactation",
+      "C": "Hormone withdrawal",
+      "D": "Hormone excess"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 311,
+    "question": "Most common site of post partum hematoma is?",
+    "options": {
+      "A": "Vulva",
+      "B": "Vagina",
+      "C": "Perineum",
+      "D": "Anal Disease Conditions"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 312,
+    "question": "Which clinical pathology included under APH?",
+    "options": {
+      "A": "Placenta Previa",
+      "B": "Abruption",
+      "C": "Uterine rupture",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 313,
+    "question": "First clinical intervention for APH will be?",
+    "options": {
+      "A": "FHR assessment",
+      "B": "Maternal vital’s",
+      "C": "Bleeding assessment",
+      "D": "IV-Fluid"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 314,
+    "question": "APH include vaginal bleeding upto?",
+    "options": {
+      "A": "Labour",
+      "B": "Fetus delievery",
+      "C": "Placenta delievery",
+      "D": "Pregnancy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 315,
+    "question": "What is true about placenta-previa?",
+    "options": {
+      "A": "Sepration from normal position",
+      "B": "No placenta sepration",
+      "C": "Sepration due to lower implantation",
+      "D": "Severe – painful bleeding"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 316,
+    "question": "Most common leading risk factor for placenta previa will be?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Congenital defect",
+      "C": "Decidua defect",
+      "D": "Previous history"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 317,
+    "question": "What are the character‟s of placenta- previa bleeding?",
+    "options": {
+      "A": "Painless",
+      "B": "Warning",
+      "C": "Revealed",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 318,
+    "question": "“Painless bleeding” is the unique character of which pathology?",
+    "options": {
+      "A": "Abruption",
+      "B": "Molar",
+      "C": "Previa",
+      "D": "Ectopic MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 57"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 319,
+    "question": "Why bleeding of placenta-previa is painless?",
+    "options": {
+      "A": "Weak connection",
+      "B": "Weak fetus",
+      "C": "Weak placenta",
+      "D": "Weak uterus"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 320,
+    "question": "On which basis placenta-previa types are classified?",
+    "options": {
+      "A": "Bleeding amount",
+      "B": "OS covering",
+      "C": "Placenta connection",
+      "D": "Fundus covering"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 321,
+    "question": "Which placental variety declaive as “most dangerous”?",
+    "options": {
+      "A": "Type 4th",
+      "B": "Type 1st",
+      "C": "Type 2nd",
+      "D": "Type 3rd"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 322,
+    "question": "Which diagnostic approach not used for previa?",
+    "options": {
+      "A": "Warning hemorrage",
+      "B": "USG",
+      "C": "Placentogrphy",
+      "D": "PV"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 323,
+    "question": "What is the best management advice for placenta previa mother‟s?",
+    "options": {
+      "A": "Fluid therapy",
+      "B": "Rest is best",
+      "C": "Delievery conduction",
+      "D": "Blood transfusion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 324,
+    "question": "What is the meaning of Term “ABRUPTION”?",
+    "options": {
+      "A": "Toxemia",
+      "B": "Accidental bleeding",
+      "C": "Me first",
+      "D": "Normal sepration"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 325,
+    "question": "In abruption placenta seprate from?",
+    "options": {
+      "A": "Lower segment",
+      "B": "Cornual Area",
+      "C": "Normal location",
+      "D": "Cervical Area"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 326,
+    "question": "Most common leading risk factor for abruption will be?",
+    "options": {
+      "A": "Hypertension",
+      "B": "Congenital",
+      "C": "Decidua defect",
+      "D": "Previous history"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 327,
+    "question": "Which substance abuse responsible for transient hypertension?",
+    "options": {
+      "A": "Smoking",
+      "B": "Alcohol",
+      "C": "Tobacoo",
+      "D": "Cocaine"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 328,
+    "question": "In concealed abruption nature of utrus will be?",
+    "options": {
+      "A": "Rigid board",
+      "B": "Soft globular",
+      "C": "Tender, boggy",
+      "D": "Non palpable"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 329,
+    "question": "In couvelaire uterus, what is the location of blood collection?",
+    "options": {
+      "A": "Behind placenta",
+      "B": "In Peritoneum",
+      "C": "In uterine layer",
+      "D": "Outside vagina"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 330,
+    "question": "Which character is not appropriate for active management APH?",
+    "options": {
+      "A": "Severe bleeding",
+      "B": "Mild type",
+      "C": "Age > 37 week",
+      "D": "Distress"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 331,
+    "question": "Which character is not appropriate for expectant management of APH?",
+    "options": {
+      "A": "Mild bleeding",
+      "B": "Mild type",
+      "C": "Age > 37 week",
+      "D": "No distress"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 332,
+    "question": "Ideal management tool for the condition of uterine rupture?",
+    "options": {
+      "A": "LSCS",
+      "B": "Arm + synto",
+      "C": "Steroid",
+      "D": "Lapratomy"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 333,
+    "question": "Select appropriate treatment modality for heavy bleeding abruption condition?",
+    "options": {
+      "A": "LSCS",
+      "B": "ARM + synto",
+      "C": "Steroid",
+      "D": "Lapratomy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 334,
+    "question": "Select appropriate treatment modality for mild bleeding abruption condition?",
+    "options": {
+      "A": "LSCS",
+      "B": "ARM + synto",
+      "C": "Steroid",
+      "D": "Lapratomy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 335,
+    "question": "What is the amount of blood loss in major PPH?",
+    "options": {
+      "A": "500-1000 ml",
+      "B": "1000-2000 ml",
+      "C": "> 2000 ml",
+      "D": "< 500 ml"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 336,
+    "question": "What are the expected findings in a mother with PPH?",
+    "options": {
+      "A": "Tachycardia",
+      "B": "Hypothermia",
+      "C": "Alter sensorium",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 337,
+    "question": "Which clinical result suggestive for PPH?",
+    "options": {
+      "A": "1 pad 10 minute",
+      "B": "2 pad 10 minute",
+      "C": "3 pad 10 minute",
+      "D": "5 pad 10 minute"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 338,
+    "question": "What is the most common cause of immediate PPH?",
+    "options": {
+      "A": "Retain tissue",
+      "B": "Atonic uterus",
+      "C": "Infection",
+      "D": "Trauma"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 339,
+    "question": "What is the most common cause of delayed PPH?",
+    "options": {
+      "A": "Retained tissue",
+      "B": "Atonic uterus",
+      "C": "Bleeding disorder",
+      "D": "Trauma"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 340,
+    "question": "Appropriate time duration of delayed PPH is?",
+    "options": {
+      "A": "Within 24 hour",
+      "B": "24 hour – 6 week",
+      "C": "2 week – 4 week",
+      "D": "4 week – 8 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 341,
+    "question": "What are the suitable antibiotics to manage secondary PPH?",
+    "options": {
+      "A": "Ampicilline",
+      "B": "Metronidazole",
+      "C": "Gentamycin",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 342,
+    "question": "At which duration condition “retained placenta” declare?",
+    "options": {
+      "A": "> 1 hour",
+      "B": "> 30 minute",
+      "C": "> 5 minute",
+      "D": "> 45 minute MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 58"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 343,
+    "question": "What is ideal recommended method of blood-blood product administration in PPH?",
+    "options": {
+      "A": "1:4:1",
+      "B": "1:1:1",
+      "C": "4:1:1",
+      "D": "4:4:4"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 344,
+    "question": "Select ideal intervention for retained placenta with absence of active vaginal bleeding?",
+    "options": {
+      "A": "MRP",
+      "B": "CCT",
+      "C": "Oxytocin",
+      "D": "Methargine"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 345,
+    "question": "Which will be drug of choice in PPH management?",
+    "options": {
+      "A": "Oxytocin",
+      "B": "Methargine",
+      "C": "Carboprost",
+      "D": "Mesoprost"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 346,
+    "question": "Total recommended dose of mesopristol in the management of Atonic PPH?",
+    "options": {
+      "A": "200 mcg",
+      "B": "400 mcg",
+      "C": "600 mcg",
+      "D": "800 mcg"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 347,
+    "question": "In which condition bi-manual compression is performed under PPH management?",
+    "options": {
+      "A": "Oxytocin failure",
+      "B": "Ergometrine failure",
+      "C": "Prostaglandin failure",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 348,
+    "question": "Temponade condition primarily manage by which technique?",
+    "options": {
+      "A": "Suturing",
+      "B": "Baloon",
+      "C": "Ligtion",
+      "D": "Removal"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 349,
+    "question": "Best suitable surgical technique for PPH management will be?",
+    "options": {
+      "A": "Suturing",
+      "B": "Baloon",
+      "C": "Ligtion",
+      "D": "Removal"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 350,
+    "question": "What is ideal NS amount to be filled in Brkri-baloon temponade?",
+    "options": {
+      "A": "100–200 ml",
+      "B": "300-500 ml",
+      "C": "500-800 ml",
+      "D": "800-1000 ml"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 351,
+    "question": "Select appropriate synonym for the term Hypertension?",
+    "options": {
+      "A": "Toxemia",
+      "B": "Accidental bleeding",
+      "C": "Me first",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 352,
+    "question": "Ideal amount of proteinure in pre- eclampsia will be?",
+    "options": {
+      "A": "+ 1",
+      "B": "+ 2",
+      "C": "+ 3",
+      "D": "+ 4"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 353,
+    "question": "A CHO must have idea about frequency of BP monitoring in pre-eclmpsia, it is?",
+    "options": {
+      "A": "6 hourly",
+      "B": "4 hourly",
+      "C": "8 hourly",
+      "D": "12 hourly"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 354,
+    "question": "What is 1st clinical symptom of Pre- eclampsia?",
+    "options": {
+      "A": "Proteinurea",
+      "B": "Rise blood pressure",
+      "C": "Ring finger edema",
+      "D": "Convulsion"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 355,
+    "question": "Which will supposed to be a primary causative factor to induce pre-eclampsia in mother?",
+    "options": {
+      "A": "Placenta",
+      "B": "Mother",
+      "C": "Fetus",
+      "D": "Hormones"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 356,
+    "question": "Most common maternal complaint in pre- eclmpsia will be?",
+    "options": {
+      "A": "Epigestric pain",
+      "B": "Insomnia",
+      "C": "Headache",
+      "D": "Weight gain"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 357,
+    "question": "Most common clinical observation in pre- eclampsic mother will be?",
+    "options": {
+      "A": "Weight gain",
+      "B": "IUGR",
+      "C": "Edema",
+      "D": "Blood pressure"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 358,
+    "question": "Appropriate interpretation of roll over test will be?",
+    "options": {
+      "A": "se BP in supine position",
+      "B": "se BP in Lateral position",
+      "C": "se BP in supine position",
+      "D": "se BP in lateral position"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 359,
+    "question": "Drug of choice in chronic hypertension?",
+    "options": {
+      "A": "Methyldopa",
+      "B": "Labetalol",
+      "C": "Mgso4",
+      "D": "Nifidipine"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 360,
+    "question": "Drug of choice in PIH?",
+    "options": {
+      "A": "Methyldop",
+      "B": "Labetalol",
+      "C": "Mgso4",
+      "D": "Nifidipine"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 361,
+    "question": "Drug of choice in hypertension crisis?",
+    "options": {
+      "A": "Methyidopa",
+      "B": "Labetlol",
+      "C": "Mgso4",
+      "D": "Nifidipine"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 362,
+    "question": "Drug of choice in pre-eclmpsia management?",
+    "options": {
+      "A": "Methyldopa",
+      "B": "Labetalol",
+      "C": "Mgso4",
+      "D": "Nifidipine"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 363,
+    "question": "Drug of choice in edampsia prevention and management?",
+    "options": {
+      "A": "Methyldopa",
+      "B": "Labetalol",
+      "C": "Mgso4",
+      "D": "Nifidipine MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 59"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 364,
+    "question": "A CHO instruct ideal diet-plan to pre- eclmpsic mother will be?",
+    "options": {
+      "A": "High fat – High protein",
+      "B": "High CHO – High Fat",
+      "C": "Low Fat – Low protein",
+      "D": "High CHO – High protein"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 365,
+    "question": "Which will not be danger sign of pre- edampsia?",
+    "options": {
+      "A": "Nisual symptom",
+      "B": "Oligourea",
+      "C": "HELLP",
+      "D": "Edema"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 366,
+    "question": "Most complicated duration of eclampsic convulsion will be?",
+    "options": {
+      "A": "In Pregnancy",
+      "B": "In Labour",
+      "C": "In Post-Pertum",
+      "D": "Same in all"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 367,
+    "question": "In post partum risk of eclmpsic convulsion is present upto?",
+    "options": {
+      "A": "12 hour",
+      "B": "48 hour",
+      "C": "24 hour",
+      "D": "72 hour"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 368,
+    "question": "Ideal amount of protelnuria in eclampsia is?",
+    "options": {
+      "A": "+ 1",
+      "B": "+ 2",
+      "C": "+ 3",
+      "D": "+ 4"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 369,
+    "question": "Which stage of convulsion declare as actual stage?",
+    "options": {
+      "A": "Pre-monitoring",
+      "B": "Tonic",
+      "C": "Clonic",
+      "D": "coma"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 370,
+    "question": "Character of tongue-biting available in which stage of convulsion?",
+    "options": {
+      "A": "Tonic",
+      "B": "Clonic",
+      "C": "Pre-monitoring",
+      "D": "Coma"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 371,
+    "question": "Which phase of convulsion known as „AURA‟?",
+    "options": {
+      "A": "Pre-monitoring",
+      "B": "Tonic",
+      "C": "Clonic",
+      "D": "Coma"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 372,
+    "question": "Under which stage of convulsion rapid body movement demonstrable?",
+    "options": {
+      "A": "Pre-monitoring",
+      "B": "Tonic",
+      "C": "Clonic",
+      "D": "Coma"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 373,
+    "question": "Character of “total body spasm” under which stage of convulsion?",
+    "options": {
+      "A": "Pre-monitoring",
+      "B": "Tonic",
+      "C": "Clonic",
+      "D": "Coma"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 374,
+    "question": "A pregnant mother moving from pre- eclampsia to eclampsia, what will be initial action?",
+    "options": {
+      "A": "Safety measure",
+      "B": "Airway clearance",
+      "C": "Mgso4",
+      "D": "Delievery conduction"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 375,
+    "question": "Highest priority action for eclmpsic mother?",
+    "options": {
+      "A": "Safety measure",
+      "B": "Airway clearance",
+      "C": "Mgso4",
+      "D": "Delievery conduction"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 376,
+    "question": "Definitive management for a mother with eclampsia?",
+    "options": {
+      "A": "Safety",
+      "B": "Airway",
+      "C": "Mgso4",
+      "D": "Delievery"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 377,
+    "question": "What is myso4?",
+    "options": {
+      "A": "CNS depressant",
+      "B": "Tocolytic",
+      "C": "Vasodilator",
+      "D": "Anticorvalecent"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 378,
+    "question": "What is therapeutic serum level of mgso4?",
+    "options": {
+      "A": "4-7",
+      "B": "7-10",
+      "C": "10-12",
+      "D": "> 12"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 379,
+    "question": "Which will be earliest symptom of mgso4 toxicity?",
+    "options": {
+      "A": "Respiration",
+      "B": "Flushing",
+      "C": "Loss of reflex",
+      "D": "Hypotension"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 380,
+    "question": "Priority nursing monitoring in mgso4 therapy?",
+    "options": {
+      "A": "Blood pressure",
+      "B": "Respiration",
+      "C": "Temperature",
+      "D": "Pulse"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 381,
+    "question": "Most common cause of prolonged labour is?",
+    "options": {
+      "A": "Inertia",
+      "B": "Malpresentation",
+      "C": "Twin’s",
+      "D": "CPD"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 382,
+    "question": "Most common cause of obstructed labour will be?",
+    "options": {
+      "A": "Inertia",
+      "B": "Cervical dystocia",
+      "C": "Pre-maturity",
+      "D": "Bandal ring"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 383,
+    "question": "Identify unusual finding during PV examination of a prolonged labour mother?",
+    "options": {
+      "A": "Foul smell",
+      "B": "Vulva edema",
+      "C": "Hot vagina",
+      "D": "Increase discharge"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 384,
+    "question": "Most common infection associated with preterm labour is?",
+    "options": {
+      "A": "Chorio-amniotis",
+      "B": "Syphillis",
+      "C": "Vaginosis",
+      "D": "Streptococal"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 385,
+    "question": "Drug of choice in pre-term labour?",
+    "options": {
+      "A": "Betametrasone",
+      "B": "Oxytocin",
+      "C": "Tocolytic",
+      "D": "Aspirin"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 386,
+    "question": "Drug of choice to inhibit pre-term labour is?",
+    "options": {
+      "A": "Betamethasone",
+      "B": "Oxytocin",
+      "C": "Tocolytic",
+      "D": "Aspirin"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 387,
+    "question": "What are the varieties of cord prolapse?",
+    "options": {
+      "A": "Occult",
+      "B": "Presentation",
+      "C": "Prolapse",
+      "D": "All"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 388,
+    "question": "Ideal management for the condition of cord prolapse will be?",
+    "options": {
+      "A": "Trendelenburg position",
+      "B": "Bladder filling",
+      "C": "LSCS",
+      "D": "Oxytocin"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 389,
+    "question": "Under which categories perineal tear involve rectal mucosa?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4° MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 60"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 390,
+    "question": "Triple layer involyment under which category of perineal tear?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4°"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 391,
+    "question": "Under which categories of perineal tear involve vaginal mucosa?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4°"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 392,
+    "question": "Which kind of perineal tear is manageable in community health setting?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4°"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 393,
+    "question": "Appropriate intervention to manage 1° tear?",
+    "options": {
+      "A": "Pad into cavity",
+      "B": "IV fluid",
+      "C": "Pad covering",
+      "D": "Foot end raising"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 394,
+    "question": "Which will not be a feature of uterine rupture?",
+    "options": {
+      "A": "Tender abdomen",
+      "B": "FHS present",
+      "C": "Fetal part feeling",
+      "D": "Abdominal pain"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 395,
+    "question": "Select suitable pair to declare precipitate labour?",
+    "options": {
+      "A": "> 2 HOUR, < 5 CM/HR",
+      "B": "> 2 HOUR, > 5 CM/HR",
+      "C": "< 2 HOUR, < 5 CM/HR",
+      "D": "< 2 HOUR, > 5 CM/HR"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 396,
+    "question": "Which maternal risk associated with precipitate condition Labour?",
+    "options": {
+      "A": "PPH",
+      "B": "Inversion",
+      "C": "Shock",
+      "D": "Hypertension"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 397,
+    "question": "Which will be most common example of malpresentation?",
+    "options": {
+      "A": "Cephalic",
+      "B": "Shoulder",
+      "C": "Breech",
+      "D": "Compound"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 398,
+    "question": "Most common cause of malpresentation will be?",
+    "options": {
+      "A": "Pre-maturity",
+      "B": "Oligohydramnios",
+      "C": "IUGR",
+      "D": "Placenta-previa"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 399,
+    "question": "In primi mother, which breech variety common?",
+    "options": {
+      "A": "Complete",
+      "B": "Frank",
+      "C": "Footling",
+      "D": "Knee"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 400,
+    "question": "In multipara mother, which breech variety common?",
+    "options": {
+      "A": "Complete",
+      "B": "Frank",
+      "C": "Footling",
+      "D": "Knee"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 401,
+    "question": "“Pinnard Process” related to delievery of?",
+    "options": {
+      "A": "Head",
+      "B": "Shoulder",
+      "C": "Buttock",
+      "D": "Extrimity"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 402,
+    "question": "“Lovust maneaveur” related to delievery of?",
+    "options": {
+      "A": "Head",
+      "B": "Shoulder",
+      "C": "Buttock",
+      "D": "Extremity"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 403,
+    "question": "“Burn-marshal” related to delievery of?",
+    "options": {
+      "A": "Head",
+      "B": "Shoulder",
+      "C": "Buttock",
+      "D": "Extremity"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 404,
+    "question": "Select appropriate statement for dizygotic twins?",
+    "options": {
+      "A": "1 ovum, 1 sperm, same sex",
+      "B": "1 ovum, 1 sperm, same/different sex",
+      "C": "2 ovum, 2 sperm, same sex",
+      "D": "2 ovum, 2 sperm, same/different sex"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 405,
+    "question": "Select appropriate statement for monozygotic twins?",
+    "options": {
+      "A": "1 ovum, 1 sperm, same sex",
+      "B": "1 ovum, 1 sperm, same/different sex",
+      "C": "2 ovum, 2 sperm, same sex",
+      "D": "2 ovum, 2 sperm, same/different sex"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 406,
+    "question": "Which will be most common connection point in conjoined twins?",
+    "options": {
+      "A": "Head",
+      "B": "Chest",
+      "C": "Abdomen",
+      "D": "Back"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 407,
+    "question": "What is the name of ovulation-inducing drug?",
+    "options": {
+      "A": "Dnazol",
+      "B": "Bromocriptine",
+      "C": "Clomiphen citrate",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 408,
+    "question": "In which variety of twins “Peak Sign” common?",
+    "options": {
+      "A": "Monozygotic",
+      "B": "Dizygotic",
+      "C": "Conjoined",
+      "D": "Simease"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 409,
+    "question": "In which variety of twins “TTTS” common?",
+    "options": {
+      "A": "Monozygotic",
+      "B": "Dizygotic",
+      "C": "Conjoined",
+      "D": "Simease"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 410,
+    "question": "How much expected weight gain in twins pregnancy?",
+    "options": {
+      "A": "10-15 kg",
+      "B": "16-20 kg",
+      "C": "20-25 kg",
+      "D": "25-30 kg"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 411,
+    "question": "Which will be most common risk associated with twins pregnancy?",
+    "options": {
+      "A": "Obstructed labour",
+      "B": "Pre-term labour",
+      "C": "Risk of cesarean",
+      "D": "Precipitate labour"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 412,
+    "question": "At which level of HB, pregnancy declared Anemic?",
+    "options": {
+      "A": "< 11 gm%",
+      "B": "< 10 gm%",
+      "C": "< 12 gm%",
+      "D": "< 9 gm%"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 413,
+    "question": "A pregnant mother with HB value 8.5 gm%, will categorize in which?",
+    "options": {
+      "A": "Mild",
+      "B": "Moderate",
+      "C": "Severe",
+      "D": "Very severe MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 61"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 414,
+    "question": "What are the symptoms of anemic mother. For which immediate reference compulsory?",
+    "options": {
+      "A": "Pallor",
+      "B": "RR > 30/min",
+      "C": "Restlessness",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 415,
+    "question": "Maximum incidence of tubal pregnancy present in which part of fallopian tube?",
+    "options": {
+      "A": "Intersticial",
+      "B": "Isthmus",
+      "C": "Ampulla",
+      "D": "Infundibulum"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 416,
+    "question": "Maximum survival of tubal pregnancy present in which part of fallopian tube?",
+    "options": {
+      "A": "Intersticial",
+      "B": "Isthmus",
+      "C": "Ampulla",
+      "D": "Infundibulum"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 417,
+    "question": "Which will be a common cause of ectopic?",
+    "options": {
+      "A": "Previous history",
+      "B": "Tubal surgery",
+      "C": "PID",
+      "D": "Smoking"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 418,
+    "question": "Which will be a common complaint of ectopic?",
+    "options": {
+      "A": "Amenorrea",
+      "B": "Vaginal bleeding",
+      "C": "Lower abdominal pain",
+      "D": "Shock"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 419,
+    "question": "Drug of choice for the management of ectopic?",
+    "options": {
+      "A": "Misopristol",
+      "B": "Methotraxate",
+      "C": "Mifepristone",
+      "D": "Oxytocin"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 420,
+    "question": "Most common future complication of mole?",
+    "options": {
+      "A": "Chorio-carcinoma",
+      "B": "GID",
+      "C": "GTN",
+      "D": "PSTT"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 421,
+    "question": "“Snow-Storm pattern” is unique feature of which pathology?",
+    "options": {
+      "A": "Ectopic",
+      "B": "IUD",
+      "C": "Twins",
+      "D": "Molar"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 422,
+    "question": "What is mandatory duration of follow-up in molar?",
+    "options": {
+      "A": "12 month",
+      "B": "9 month",
+      "C": "6 month",
+      "D": "3 month"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 423,
+    "question": "Which will be 1st degenerative structure in IUD?",
+    "options": {
+      "A": "Skin",
+      "B": "Heart",
+      "C": "Brain",
+      "D": "Kidney"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 424,
+    "question": "What is true about “Robert Sign” of IUD?",
+    "options": {
+      "A": "Within 7 day",
+      "B": "Bone liquefaction",
+      "C": "Spinal curvature",
+      "D": "Gas in cardiac chamber"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 425,
+    "question": "What is true about “Spalding Sign” of IUD?",
+    "options": {
+      "A": "Within 1 day",
+      "B": "Bone liquefaction",
+      "C": "Spinal curvature",
+      "D": "Gas in chamber"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 426,
+    "question": "Which will be common cause of early pregnancy loss?",
+    "options": {
+      "A": "Abortion",
+      "B": "Mole",
+      "C": "Ectopic",
+      "D": "APH"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 427,
+    "question": "What is common cause of abortion?",
+    "options": {
+      "A": "Infection",
+      "B": "Trauma",
+      "C": "Chromosome",
+      "D": "Hormone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 428,
+    "question": "What is the character of arcuate uterus?",
+    "options": {
+      "A": "No fundus",
+      "B": "Fundus depression",
+      "C": "Fundus elevation",
+      "D": "2 Fundus"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 429,
+    "question": "Most common cause of recurrent abortion?",
+    "options": {
+      "A": "Uterine Fundus",
+      "B": "OS opening",
+      "C": "Vessel shrinkage",
+      "D": "Adhesion"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 430,
+    "question": "“Aashermann syndrome” characterized by which pathological feature?",
+    "options": {
+      "A": "Fundus depression",
+      "B": "OS opening",
+      "C": "Vessel shrinkage",
+      "D": "Adhesion"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 431,
+    "question": "In which variety of abortion recovery possible?",
+    "options": {
+      "A": "Threatned",
+      "B": "Inevitable",
+      "C": "Incomplete",
+      "D": "Missed"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 432,
+    "question": "In which variety of abortion recovery impossible?",
+    "options": {
+      "A": "Threatned",
+      "B": "Inevitable",
+      "C": "Incomplete",
+      "D": "Missed"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 433,
+    "question": "Which abortion variety characterized by retained tissue?",
+    "options": {
+      "A": "Threatned",
+      "B": "Inevitable",
+      "C": "Incomplete",
+      "D": "Missed"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 434,
+    "question": "Which abortion characterized as “silent abortion”?",
+    "options": {
+      "A": "Threatned",
+      "B": "Inevitable",
+      "C": "Incomplete",
+      "D": "Missed"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 435,
+    "question": "Which abortion characterized as “Habitual abortion”?",
+    "options": {
+      "A": "Missed",
+      "B": "Recurrent",
+      "C": "Septic",
+      "D": "Threatned"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 436,
+    "question": "Which activity is performmed in “Encirclage”?",
+    "options": {
+      "A": "OS closure",
+      "B": "Uterine stiching",
+      "C": "Fundus repair",
+      "D": "Hormonal therapy MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 62"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 437,
+    "question": "In abortion what is the meaning of “MMA”?",
+    "options": {
+      "A": "Micro-method abortion",
+      "B": "Medical-method abortion",
+      "C": "Manual – Method abortion",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 438,
+    "question": "What is upper limit of using MMA method?",
+    "options": {
+      "A": "7 week",
+      "B": "12 week",
+      "C": "15 week",
+      "D": "22 week"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 439,
+    "question": "What are the contra-indications of using MMA method?",
+    "options": {
+      "A": "Anemia",
+      "B": "Ectopic",
+      "C": "Hypertension",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 440,
+    "question": "Select appropriate drug‟s combination in MMA?",
+    "options": {
+      "A": "Mesopristol + Methotraxate",
+      "B": "Mifepristone + Mesopristol",
+      "C": "Mifepristone + methotraxate",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 441,
+    "question": "What is the mechanism of action drug R4-486?",
+    "options": {
+      "A": "Anti progesterone",
+      "B": "Anti cancer",
+      "C": "Uterotonic",
+      "D": "Antibiotic"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 442,
+    "question": "How many visits are recommended in MMA following?",
+    "options": {
+      "A": "4",
+      "B": "2",
+      "C": "3",
+      "D": "1"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 443,
+    "question": "Upto how many days bleeding is expected after MMA therapy?",
+    "options": {
+      "A": "7 day",
+      "B": "13 day",
+      "C": "10 day",
+      "D": "21 day"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 444,
+    "question": "Ideal timing to use manual vacum aspiration?",
+    "options": {
+      "A": "0-7 week",
+      "B": "7-12 week",
+      "C": "12-15 week",
+      "D": "> 15 week"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 445,
+    "question": "Ideal timing to perform suction – evacuation?",
+    "options": {
+      "A": "Upto 7 week",
+      "B": "7-12 week",
+      "C": "Upto 15 week",
+      "D": "After 15 week"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 446,
+    "question": "Ideal timing to perform dilation – evacution?",
+    "options": {
+      "A": "Upto 7 week",
+      "B": "7-12 week",
+      "C": "Upto 15 week",
+      "D": "After 15 week"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 447,
+    "question": "Ideal timing to use oxytocin infusion for abortion?",
+    "options": {
+      "A": "Upto 7 week",
+      "B": "7-12 week",
+      "C": "Upto 15 week",
+      "D": "After 15 weak GYNIC"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 448,
+    "question": "Puberty is defined as?",
+    "options": {
+      "A": "Genital orgen development",
+      "B": "Primary sex character development",
+      "C": "Secondary sex character development",
+      "D": "Height-weight growth"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 449,
+    "question": "What is 1st sign of female puberty?",
+    "options": {
+      "A": "Thelarche",
+      "B": "Menarche",
+      "C": "Pubarche",
+      "D": "Adrenarche"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 450,
+    "question": "Time before puberty known as?",
+    "options": {
+      "A": "Early puberty",
+      "B": "Late Puberty",
+      "C": "Climetric",
+      "D": "Precocious"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 451,
+    "question": "Which hormone deficiency is main in menopause?",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 452,
+    "question": "What is most common complaint in menopause?",
+    "options": {
+      "A": "Osteoporosis",
+      "B": "UTI",
+      "C": "Hot Flush",
+      "D": "Mood Swing"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 453,
+    "question": "Time before menopause known as?",
+    "options": {
+      "A": "Climetric",
+      "B": "Pre-cocious",
+      "C": "Ovarian Failure",
+      "D": "Early menopause"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 454,
+    "question": "What is basic purpose of menstrual cycle?",
+    "options": {
+      "A": "Bleeding",
+      "B": "Ovulation",
+      "C": "Fertility",
+      "D": "Pregnancy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 455,
+    "question": "Which hormone is primarily responsible for ovulation?",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 456,
+    "question": "“Maintenance of Pregnancy” achieve by which hormone?",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 457,
+    "question": "Which hormone responsible to develop graffian Follicle?",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 458,
+    "question": "Endometrium growth achieve by which hormone?",
+    "options": {
+      "A": "FSH",
+      "B": "Estrogen",
+      "C": "LH",
+      "D": "Progesterone"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 459,
+    "question": "How much average blood loss in menstruation?",
+    "options": {
+      "A": "20-40 ml",
+      "B": "35-50 ml",
+      "C": "50-80 ml",
+      "D": "100-150 ml"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 460,
+    "question": "What is the character of epilnenorrea?",
+    "options": {
+      "A": "Duration < 21 day",
+      "B": "Duration > 35 day",
+      "C": "Bleeding < 20 ml",
+      "D": "Bleeding > 80 ml"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 461,
+    "question": "What is the character of menorrhagia?",
+    "options": {
+      "A": "Duration < 21 day",
+      "B": "Duration > 35day",
+      "C": "Bleeding < 20 ml",
+      "D": "Bleeding > 80 ml MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 63"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 462,
+    "question": "In which disorder “hidden menstruation” present?",
+    "options": {
+      "A": "DUB",
+      "B": "Cryptomenorre",
+      "C": "Metro-rrhagia",
+      "D": "Epimenorrea"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 463,
+    "question": "Acyclic, excessive bleeding is the character of?",
+    "options": {
+      "A": "Menorrhgia",
+      "B": "Metrorrhagia",
+      "C": "Menometrorrhagia",
+      "D": "Epimenorrea"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 464,
+    "question": "Dysmenorrea pain present upto?",
+    "options": {
+      "A": "1-3 day of menstruation",
+      "B": "24 hour after menstruation",
+      "C": "In complete menstruation",
+      "D": "In complete cycle"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 465,
+    "question": "What are the features of primary dysmenorrea?",
+    "options": {
+      "A": "Teen age start",
+      "B": "Radiating",
+      "C": "Ovulation related",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 466,
+    "question": "What are the features of secondary dysmenorrea?",
+    "options": {
+      "A": "Medical issue",
+      "B": "Non-radiating",
+      "C": "Older women",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 467,
+    "question": "Symptoms of pre-menstrual syndrome present in which phase of cycle?",
+    "options": {
+      "A": "Bleeding",
+      "B": "Follicular",
+      "C": "Secretory",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 468,
+    "question": "The severe form of pre menstrual syndrome known as?",
+    "options": {
+      "A": "PMT",
+      "B": "PMDD",
+      "C": "PMS",
+      "D": "Psycho-somatic condition"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 469,
+    "question": "The term „PMT‟ stand for?",
+    "options": {
+      "A": "Pre-menstrual Tension",
+      "B": "Post-menstrual Tension",
+      "C": "Post – Menopausal Tension",
+      "D": "Pre-menstrual Tone"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 470,
+    "question": "Which will supposed to be a cause of depression in pre-menstrual syndrome?",
+    "options": {
+      "A": "Hormone shifting",
+      "B": "Endorphin change",
+      "C": "Low Serotonine level",
+      "D": "Dietry issue"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 471,
+    "question": "Most common type of vaginitis will be?",
+    "options": {
+      "A": "Bacterial",
+      "B": "Parasitic",
+      "C": "Fungal",
+      "D": "Senile"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 472,
+    "question": "Most common vaginitis in pregnancy will be?",
+    "options": {
+      "A": "Bacterial",
+      "B": "Parasitic",
+      "C": "Fungal",
+      "D": "Senile"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 473,
+    "question": "Strawberry spot appearance present in which vaginitis?",
+    "options": {
+      "A": "Bacterial",
+      "B": "Parasitic",
+      "C": "Fungal",
+      "D": "Senile"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 474,
+    "question": "Pink colour vaginal discharge suggestive for?",
+    "options": {
+      "A": "Lochia",
+      "B": "Cervical cancer",
+      "C": "Menopause",
+      "D": "Moniliasis"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 475,
+    "question": "Which intervention explain by CHO is inappropriate. For the care during vagina discharge?",
+    "options": {
+      "A": "Wear cotton panties",
+      "B": "Avoid tight cloth",
+      "C": "No douche",
+      "D": "Wipe from back to front"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 476,
+    "question": "Which micro-orgenism responsible for puerperal mastitis?",
+    "options": {
+      "A": "E.coli",
+      "B": "Streptococus",
+      "C": "Staphyococus",
+      "D": "Rubella"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 477,
+    "question": "Which micro-orgenism responsible for non puerperal mastitis?",
+    "options": {
+      "A": "E.coli",
+      "B": "Streptococus",
+      "C": "Staphylococus",
+      "D": "Rubella"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 478,
+    "question": "What are the characters of inflammatory breast?",
+    "options": {
+      "A": "Superficial area",
+      "B": "Feeding problem",
+      "C": "Non movable mass",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 479,
+    "question": "What are the characters of breast abscess?",
+    "options": {
+      "A": "Deep wall infection",
+      "B": "Movable mass",
+      "C": "Persistent fever",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 480,
+    "question": "Which will be best management tool in breast abscess?",
+    "options": {
+      "A": "Drainage method",
+      "B": "Analgesic",
+      "C": "Antibiotics",
+      "D": "Heat therapy"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 481,
+    "question": "Fibrocystic breast disease is main character of?",
+    "options": {
+      "A": "Puerperal mastitis",
+      "B": "Nopuerperal mastitis",
+      "C": "Breast lump",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 482,
+    "question": "What is the main character of fibroedenoma?",
+    "options": {
+      "A": "Fluid cyst",
+      "B": "Without fluid cyst",
+      "C": "Pus cyst",
+      "D": "Hemorrgic cyst"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 483,
+    "question": "Which will be most common cause of breast lump?",
+    "options": {
+      "A": "Changing hormone",
+      "B": "Malignancy",
+      "C": "Infection",
+      "D": "Breast Feeding"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 484,
+    "question": "Which will be refer pain area in cervical pathology?",
+    "options": {
+      "A": "Thigh’s",
+      "B": "Inguinal area",
+      "C": "Lower sacrum",
+      "D": "Upper sacrum"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 485,
+    "question": "Inguinal pain is related to which pelvic pathology?",
+    "options": {
+      "A": "Uterine",
+      "B": "Ovarian",
+      "C": "Cervical",
+      "D": "Uterosacral MCQs Gurjar Ki Thadi, opp. Metro Pillar No. 67 New Sanganer Road, Jaipur. Mb. 7426955591, 7426955593 64"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 486,
+    "question": "Pelvic pain after amenorrea associated with?",
+    "options": {
+      "A": "Gynic pain",
+      "B": "Ectopic pain",
+      "C": "UTI",
+      "D": "PID"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 487,
+    "question": "What will be surgical techniques in Pelvic pain?",
+    "options": {
+      "A": "Hysterectomy",
+      "B": "LUNA",
+      "C": "PSN",
+      "D": "All of these"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 488,
+    "question": "What is LUNA?",
+    "options": {
+      "A": "Lasor uterine nerve ablation",
+      "B": "Laproscopic umblical node atrophy",
+      "C": "Laproscopic uterine nerve ablation",
+      "D": "Linear uretnral nerve ablation"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 489,
+    "question": "What is cystocele?",
+    "options": {
+      "A": "Bladder herniation",
+      "B": "Uretnra herniation",
+      "C": "Rectum herniation",
+      "D": "Bowel herniation"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 490,
+    "question": "Which clinical term is used for bowl herpiation?",
+    "options": {
+      "A": "Cystocele",
+      "B": "Urethrocele",
+      "C": "Rectocele",
+      "D": "Enterocele"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 491,
+    "question": "Vaginal herniation from lower 1/3rd anterior known as?",
+    "options": {
+      "A": "Cystocele",
+      "B": "Urethrocele",
+      "C": "Rectocele",
+      "D": "Enterocele"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 492,
+    "question": "Uterus desend below the os within vagina is which kind of prolapse?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4°"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 493,
+    "question": "“Procendetia” in prolapse stand for which degree?",
+    "options": {
+      "A": "1°",
+      "B": "2°",
+      "C": "3°",
+      "D": "4°"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 494,
+    "question": "“Pessary” in prolapse is which kind of therapy?",
+    "options": {
+      "A": "Conservative",
+      "B": "Preventive",
+      "C": "Surgical",
+      "D": "Curative"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 495,
+    "question": "What is the purpose of restorative surgery?",
+    "options": {
+      "A": "Tissue repair",
+      "B": "Uterus removal",
+      "C": "Closing vagina",
+      "D": "All of these"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 496,
+    "question": "What is the purpose of “Extirpative surgery”?",
+    "options": {
+      "A": "Tissue repair",
+      "B": "Uterus removal",
+      "C": "Closing vagina",
+      "D": "All of these"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 497,
+    "question": "What is the purpose of “obliterative surgery”?",
+    "options": {
+      "A": "Tissue repair",
+      "B": "Uterus removal",
+      "C": "Closing vagina",
+      "D": "All of these"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 498,
+    "question": "Which will be known as most common PID?",
+    "options": {
+      "A": "Cervicitis",
+      "B": "Vaginitis",
+      "C": "Oopnritis",
+      "D": "Salpingitis"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 499,
+    "question": "Highest risking age group for fibroid uterus will be?",
+    "options": {
+      "A": "15-25 year",
+      "B": "25-35 year",
+      "C": "35-45 year",
+      "D": "45-55 year"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 500,
+    "question": "Which variety of fibroid is most common?",
+    "options": {
+      "A": "Intramural",
+      "B": "Intersticial",
+      "C": "Submucous",
+      "D": "Subserous"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 501,
+    "question": "The most common symptom of fibroid uterus is?",
+    "options": {
+      "A": "Menorrhgia",
+      "B": "Vaginal discharge",
+      "C": "Dysmenorrea",
+      "D": "Metrorrhagia"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 502,
+    "question": "BSO technique of hystrectomy involve?",
+    "options": {
+      "A": "Total",
+      "B": "Subtotal",
+      "C": "PAN",
+      "D": "Radical"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 503,
+    "question": "What is asthenozoospermia?",
+    "options": {
+      "A": "Absence semen",
+      "B": "Absence sperm",
+      "C": "Non motile sperm",
+      "D": "Dead sperm"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 504,
+    "question": "Which clinical term is used for dead sperm condition?",
+    "options": {
+      "A": "Nacrozoospermia",
+      "B": "Asthenozoospermia",
+      "C": "Azoospermia",
+      "D": "Aspermia"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 505,
+    "question": "What is aspermia?",
+    "options": {
+      "A": "Absence sperm",
+      "B": "Absence semen",
+      "C": "Dead sperm",
+      "D": "Non motile sperm"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 506,
+    "question": "Which will leading cause of female infertility?",
+    "options": {
+      "A": "Endometriosis",
+      "B": "PID",
+      "C": "Vaginal Antibody",
+      "D": "PCOD"
+    },
+    "answer": "D"
+  },
+  {
+    "number": 507,
+    "question": "Which hormone have deficit value in PCOD?",
+    "options": {
+      "A": "FSH",
+      "B": "LH",
+      "C": "Estrogen",
+      "D": "Androgen"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 508,
+    "question": "Which will be most widely used ART?",
+    "options": {
+      "A": "GIFT",
+      "B": "ZIFT",
+      "C": "IVF",
+      "D": "IUI"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 509,
+    "question": "The best intervention to manage infertility will be?",
+    "options": {
+      "A": "IVF",
+      "B": "Adoption",
+      "C": "Hysterectomy",
+      "D": "Gene therapy"
+    },
+    "answer": "B"
+  },
+  {
+    "number": 510,
+    "question": "Which age group is consider under teenage pregnancy?",
+    "options": {
+      "A": "10-15 year",
+      "B": "15-20 year",
+      "C": "10-19 year",
+      "D": "21-30 year"
+    },
+    "answer": "C"
+  },
+  {
+    "number": 511,
+    "question": "“GATGER APPROCH” useful in which condition?",
+    "options": {
+      "A": "Adolescent counseling",
+      "B": "Teenage counseling",
+      "C": "Marriage counseling",
+      "D": "Contraception counseling"
+    },
+    "answer": "A"
+  },
+  {
+    "number": 512,
+    "question": "Which will not be a component of „HEADS‟ approach?",
+    "options": {
+      "A": "Home",
+      "B": "Education",
+      "C": "Sexuality",
+      "D": "Demography"
+    },
+    "answer": "D"
+  }
+]
